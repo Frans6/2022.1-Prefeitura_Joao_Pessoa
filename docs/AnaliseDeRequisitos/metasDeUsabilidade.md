@@ -5,9 +5,8 @@ has_children: false
 nav_order: 5
 ---
 
-# <center>Metas de usabilidade
+# Metas de usabilidade
 
-<div align="justify">
 
 ## 1. Introdução
 Esse documento visa demonstrar as metas de usabilidade, uma lista de fatores ligados diretamente ao uso de sistemas segundo o Jakob Nielsen (1993), as metas de usabilidades é um meio de visualizar se as características do produto concordam com 6 usabilidades essas metas ajudam a resolver problemas com a produtividade do usuário durante a utilização do sistema e motivações desse usuário para um aprendizado mais eficaz.
@@ -45,10 +44,6 @@ Para verificar se as metas foram alcançadas, foi levantado as seguintes questõ
 * Aprendizagem: O site é intuitivo e de fácil utilização, com mecanismos que auxiliam o usuário durante sua atividade (utilizando uma tela de informações, por exemplo)?
 
 * Memorização: O site requer o mínimo da memória do usuário? E caso seja necessário utilizá-la, o site garante o uso de figuras, ou características únicas que facilita o reconhecimento da funcionalidade?
-
-
-
-</div>
 
 
 ## Bibliografia
