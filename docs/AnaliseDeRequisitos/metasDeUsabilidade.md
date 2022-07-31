@@ -2,7 +2,7 @@
 title: Metas de Usabilidade
 parent: Análise de Requisitos
 has_children: false
-nav_order: 6
+nav_order: 7
 ---
 
 # Metas de usabilidade
