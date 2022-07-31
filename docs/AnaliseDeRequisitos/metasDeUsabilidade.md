@@ -1,3 +1,10 @@
+---
+title: Metas de Usabilidade
+parent: Análise de Requisitos
+has_children: false
+nav_order: 5
+---
+
 # <center>Metas de usabilidade
 
 <div align="justify">
