@@ -1,6 +1,6 @@
 ---
 title: Princípios Gerais do Projeto
-parent: Princípios Gerais do Projeto
+parent: Análise de Requisitos
 has_children: false
 nav_order: 5
 ---
