@@ -1,5 +1,5 @@
 ---
-title: Análise das Tarefas
+title: Guia de Estilo
 parent: Análise de Requisitos
 has_children: false
 nav_order: 5
