@@ -9,7 +9,7 @@ nav_order: 3
 
 ## 1. Principios Gerais de Projeto, Metas de usabilidade e Guia de Estilo - 01/08/2022
 
-### [Link da Apresentação 3 no Youtube](https://youtu.be/EIhvihcSXU4)
+### [Link da Apresentação 3 no Youtube](https://youtu.be/BVsXQ8sfm_o)
 
 ## Versionamento
 
