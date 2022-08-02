@@ -98,7 +98,7 @@ Repositórios de semestre anteriores que serviram de grande ajuda para essa docu
 
 ## Versionamento
 
-| Data  | Versão |     Descrição     |    Autor    |
-|:-----:|:------:|:-----------------:|:-----------:|
-| 17/07 |   v0   | Criação da página e conteúdo | [Renann](https://github.com/NyndoND) |
-| 20/07 |   v1.0   | Públicação dos resultados da pesquisa | [Renann](https://github.com/NyndoND) |
+| Data  | Versão |               Descrição               |                Autor                 |
+|:-----:|:------:|:-------------------------------------:|:------------------------------------:|
+| 17/07 |   v0   |     Criação da página e conteúdo      | [Renann](https://github.com/NyndoND) |
+| 20/07 |  v1.0  | Públicação dos resultados da pesquisa | [Renann](https://github.com/NyndoND) |

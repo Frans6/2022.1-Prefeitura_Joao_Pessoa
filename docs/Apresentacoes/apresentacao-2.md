@@ -13,7 +13,7 @@ nav_order: 2
 
 ## Versionamento
 
-| Data  | Versão |       Descrição        |    Autor    |
-|:-----:|:------:|:----------------------:|:-----------:|
+| Data  | Versão |       Descrição        |                 Autor                  |
+|:-----:|:------:|:----------------------:|:--------------------------------------:|
 | 20/07 |   v0   |   Criação da página    | [Tiago](https://github.com/TiagoBuson) |
-| 20/07 |  v0.1  | Adição da apresentação |  [Tiago](https://github.com/TiagoBuson) |
+| 20/07 |  v0.1  | Adição da apresentação | [Tiago](https://github.com/TiagoBuson) |
