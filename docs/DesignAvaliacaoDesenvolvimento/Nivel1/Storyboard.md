@@ -22,7 +22,13 @@ Os stooryboard foram desenhados à mão.
 
 <p align = "justify">
 &emsp;&emsp; 
-Os storyboards apresentados possuem como foco a verificação da facilidade do usuário ao realizar as tarefas proposta. No primeiro storyboard percebemos a dificuldade do usuário em realizar a tarefa proposta, mostrando que o site da prefeitura de João Pessoa não está de acordo com as metas de usabilidade.
+Os storyboards apresentados possuem como foco a verificação da facilidade do usuário ao realizar as tarefas proposta.
+
+&emsp;&emsp; 
+No primeiro storyboard percebemos a dificuldade do usuário em realizar a tarefa proposta, mostrando que o site da prefeitura de João Pessoa não está de acordo com as metas de usabilidade.
+
+&emsp;&emsp; 
+No segundo storyboard é abordado como é feito o acesso ao site para ler todas as notícias publicadas, mesmo que seja uma tarefa simples, a equipe crê que possam ter etapas que podem ser cortadas para tornar o acesso mais direto e com menos intereções.
 
 ## 3. Resultados
 
@@ -32,20 +38,16 @@ Os storyboards apresentados possuem como foco a verificação da facilidade do u
   <small>Fonte: autor</small>
 </figcaption>
 
-<center> <img  src="" width="500" height = "300"> </center>
+<center> <img  src="../../assets/storyboards/storyboard2.jpg" width="500" height = "700"> </center>
 <figcaption align='center'>
   <h5>  <b>Storyboard 2: tarefa - acessar as principais notícias </b><br> </h5>
   <small>Fonte: autor</small>
 </figcaption>
 
-
-
-
-
 ## 4. Conclusão
 
 <p align = "justify">
-&emsp;&emsp;É possível afirmar que o storyboard é uma ferramenta muito útil para exemplificar como as tarefas do sistema podem ser realizadas, quais necessidade ele atende, a quem se destina, e quais motivações levam o usuário a utilizá-la, dessa forma, com base nos resultados apresentados, espera-se que os designers desenvolvam uma interface que possibilite melhor interação do usuário com o sistema.
+&emsp;&emsp;É possível afirmar que o storyboard é uma ferramenta muito útil para exemplificar como as tarefas do sistema podem ser realizadas, quais necessidades ele atende, a quem se destina, e quais motivações levam o usuário a utilizá-la, dessa forma, com base nos resultados apresentados, espera-se que os designers desenvolvam uma interface que possibilite melhor interação do usuário com o sistema.
 
 ## Bibliografia
 
@@ -55,4 +57,5 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, 
 
 | Data  | Versão |          Descrição           |                                               Autor                                                |
 |:-----:|:------:|:----------------------------:|:--------------------------------------------------------------------------------------------------:|
-| 06/08 |   v0   |      Criação do documento       |      [Gabrielly](https://github.com/GabriellyAssuncao)                         |
+| 06/08 |   v0   |      Criação do documento       |      [Gabrielly](https://github.com/GabriellyAssuncao)     |
+| 07/08 |   v1.0   |      Criação do documento       |      [Renann](https://github.com/NyndoND)     |
