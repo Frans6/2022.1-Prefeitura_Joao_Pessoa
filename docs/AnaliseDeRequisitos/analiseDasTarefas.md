@@ -1,5 +1,5 @@
 ---
-title: Análise das Tarefas
+title: Análise de Tarefas
 parent: Análise de Requisitos
 has_children: false
 nav_order: 4
