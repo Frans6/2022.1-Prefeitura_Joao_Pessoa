@@ -61,7 +61,11 @@ Para realizar a avaliação utilizamos  a metodologia de inspeção por ser poss
 
 </table>
 
-### 4.2. Relato dos resultados
+### 4.2. Aplicação da Avaliação
+
+<p align = "justify">
+
+### 4.3. Relato dos resultados
 
 <p align = "justify">
 &emsp;&emsp;
