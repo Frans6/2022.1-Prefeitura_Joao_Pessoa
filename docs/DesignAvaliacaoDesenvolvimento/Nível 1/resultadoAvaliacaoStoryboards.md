@@ -9,7 +9,7 @@ nav_order: 3
 
 ## 1. Objetivo
 
-Este documento tem o objetivo de registrar as entrevistas feitas sobre a avaliação dos storyboards.
+Este documento tem o objetivo de registrar as entrevistas feitas sobre a avaliação dos storyboards e validar eles, procurando melhorias e ajustes a serem feitos.
 
 ## 2. Metodologia 
 
@@ -37,7 +37,7 @@ Este documento tem o objetivo de registrar as entrevistas feitas sobre a avalia�
     </tr>
     <tr>
         <td>3</td>
-        <td>Com relação ao primeiro storyboard,   qual sugestão de alteração ou melhoria para o storyboard sugere?</td>
+        <td>Com relação ao primeiro storyboard, qual sugestão de alteração ou melhoria para o storyboard sugere?</td>
         <td>Nenhuma, o story parece estar simples e direto</td>
     </tr>
     <tr>
@@ -52,13 +52,13 @@ Este documento tem o objetivo de registrar as entrevistas feitas sobre a avalia�
     </tr>
     <tr>
         <td>6</td>
-       <td>Com relação ao primeiro storyboard,   qual sugestão de alteração ou melhoria para o storyboard sugere?</td>
+       <td>Com relação ao segundo storyboard, qual sugestão de alteração ou melhoria para o storyboard sugere?</td>
         <td>Poderia ter outra pessoa conversando</td>
     </tr>
 
 </table>
 
-### 3.1 Entrevista 2 - Nicolas
+### 3.2 Entrevista 2 - Nicolas
 
 <table border="1">
     <tr>
@@ -78,7 +78,7 @@ Este documento tem o objetivo de registrar as entrevistas feitas sobre a avalia�
     </tr>
     <tr>
         <td>3</td>
-        <td>Com relação ao primeiro storyboard,   qual sugestão de alteração ou melhoria para o storyboard sugere?</td>
+        <td>Com relação ao primeiro storyboard, qual sugestão de alteração ou melhoria para o storyboard sugere?</td>
         <td>Utilizar uma letra mais legível</td>
     </tr>
     <tr>
@@ -93,13 +93,13 @@ Este documento tem o objetivo de registrar as entrevistas feitas sobre a avalia�
     </tr>
     <tr>
         <td>6</td>
-       <td>Com relação ao primeiro storyboard,   qual sugestão de alteração ou melhoria para o storyboard sugere?</td>
+       <td>Com relação ao segundo storyboard, qual sugestão de alteração ou melhoria para o storyboard sugere?</td>
         <td>Poderia utilizar uma forma visual também mostrando a aplicação</td>
     </tr>
 
 </table>
 
-### 3.1 Entrevista 3 - Tiago
+### 3.3 Entrevista 3 - Tiago
 
 <table border="1">
     <tr>
@@ -119,7 +119,7 @@ Este documento tem o objetivo de registrar as entrevistas feitas sobre a avalia�
     </tr>
     <tr>
         <td>3</td>
-        <td>Com relação ao primeiro storyboard,   qual sugestão de alteração ou melhoria para o storyboard sugere?</td>
+        <td>Com relação ao primeiro storyboard, qual sugestão de alteração ou melhoria para o storyboard sugere?</td>
         <td>Nenhuma sugestão</td>
     </tr>
     <tr>
@@ -134,13 +134,13 @@ Este documento tem o objetivo de registrar as entrevistas feitas sobre a avalia�
     </tr>
     <tr>
         <td>6</td>
-       <td>Com relação ao primeiro storyboard,   qual sugestão de alteração ou melhoria para o storyboard sugere?</td>
+       <td>Com relação ao segundo storyboard, qual sugestão de alteração ou melhoria para o storyboard sugere?</td>
         <td>Mostrar uma aplicação mais prática e visual da aplicação</td>
     </tr>
 
 </table>
 
-### 3.1 Entrevista 4 - Gabrielly
+### 3.4 Entrevista 4 - Gabrielly
 
 <table border="1">
     <tr>
@@ -160,7 +160,7 @@ Este documento tem o objetivo de registrar as entrevistas feitas sobre a avalia�
     </tr>
     <tr>
         <td>3</td>
-        <td>Com relação ao primeiro storyboard,   qual sugestão de alteração ou melhoria para o storyboard sugere?</td>
+        <td>Com relação ao primeiro storyboard, qual sugestão de alteração ou melhoria para o storyboard sugere?</td>
         <td>Nenhuma sugestão</td>
     </tr>
     <tr>
@@ -175,11 +175,16 @@ Este documento tem o objetivo de registrar as entrevistas feitas sobre a avalia�
     </tr>
     <tr>
         <td>6</td>
-       <td>Com relação ao primeiro storyboard,   qual sugestão de alteração ou melhoria para o storyboard sugere?</td>
+       <td>Com relação ao segundo storyboard, qual sugestão de alteração ou melhoria para o storyboard sugere?</td>
         <td>Mostrar uma aplicação mais prática e visual da aplicação</td>
     </tr>
 
 </table>
+
+## 4. Conclusão
+
+Após as entrevistas, podemos concluir que o primeiro storyboard está de acordo com o esperado, entregando tudo que se espera dele. O segundo storyboard possui algumas melhorias que podem ser feitas, mas ao todo está condizente.
+
 
 ## Versionamento
 
@@ -187,3 +192,5 @@ Este documento tem o objetivo de registrar as entrevistas feitas sobre a avalia�
 | ----- | -------- | ------------------------------ | -------------------------------------------------- |
 | 07/08 | v0       | Criação da página              | [Paulo](https://github.com/paulomacieltorresfilho) |
 | 08/08 | v0.1     | Correção de textos e cabeçalho | [Paulo](https://github.com/paulomacieltorresfilho) |
+| 08/08 | v0.2	   | Adição da conclusão			| [Paulo](https://github.com/paulomacieltorresfilho) |
+
