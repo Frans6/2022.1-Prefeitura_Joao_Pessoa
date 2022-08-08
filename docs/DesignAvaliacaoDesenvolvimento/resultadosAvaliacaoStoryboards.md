@@ -19,20 +19,6 @@ Devido a dificuldade de encontrar moradores da cidade de João Pessoa que se enq
 
 ## 3. Entrevistas
 
-| Número | Pergunta                                                              | Resposta                   |
-| ------ | --------------------------------------------------------------------- | -------------------------- |
-| 01     | Qual seu nome?                                                        | Matheus Soares             |
-| 02     | Qual sua idade?                                                       | 20                         |
-| 03     | Qual seu nível de formação?                                           | Ensino Superior incompleto |
-| 04     | Seu curso atual pertence a qual área do conhecimento?                 | Exatas                     |
-| 05     | Você já havia acessado o site da prefeitura?                          | Sim                        |
-| 06     | Já acessou o site para ver notícias?                                  | Matheus Soares             |
-| 07     | O que te ajudou/atrapalhou mais a ver as notícias?                    | Matheus Soares             |
-| 08     | Já acessou o site para usar o portal de tranparência?                 | Matheus Soares             |
-| 09     | O que te ajudou/atrapalhou mais a utilizar o portal de transparência? | Matheus Soares             |
-| 10     | O que acha do site da prefeitura de João Pessoa?                      | Matheus Soares             |
-| 11     | Teve facilidade de encontrar o que desejava?                          | Matheus Soares             |
-
 ### 3.1 Entrevista 1 - Matheus Soares
 
 | Número | Pergunta                                              | Resposta                                                                    |
