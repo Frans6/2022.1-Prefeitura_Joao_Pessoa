@@ -1,5 +1,5 @@
 ---
-title: Planejamento da Avaliação do Storyboard
+title: Planejamento da Avaliação - Storyboard
 parent: Design, Avaliação e Desenvolvimento
 has_children: false
 nav_order: 6
