@@ -13,32 +13,93 @@ Com o objetivo de organizar e planejar as tarefas a serem entregadas, foi elabor
 
 Nessa etapa o foco é observar os site avaliados por cada integrante, entender o problema e definir o escopo principal do projeto. A seguir a *tabela 1* apresenta um cronograma para entrega dessas tarefas.
 
-|       Tarefa       | Data limite |  Autor(es)  |   Revisor   |
-|:------------------:|:-----------:|:-----------:|:-----------:|
-|        Cronograma       |    11/07    |   Renann    | Gabrielly |
-|    Introdução e Equipe  |    11/07    |   Gabrielly | Renann    |
-| Planejamento do Projeto |    11/07    |   Renann    | Tiago     |
-|       Ferramentas       |    11/07    |   Tiago     | Renann    |
-|  Lista de sites e site escolhido |    11/07    | Nicolas   | Tiago |
-|    Processo de Design   |    11/07    |  Gabrielly  | Nicolas   |
+<table border="1">
+    <tr>
+        <td><b>Tarefa</b></td>
+        <td><b>Data de Entrega</b></td>
+        <td><b>Autor</b></td>
+        <td><b>Data de Revisão</b></td>
+        <td><b>Revisor</b></td>
+    </tr>
+    <tr>
+        <td>Cronograma</td>
+        <td>11/07</td>
+        <td>Renann</td></td>
+        <td>10/07</td></td>
+        <td>Gabrielly</td></td>
+    </tr>
+    <tr>
+        <td>Introdução e Equipe</td>
+        <td>11/07</td>
+        <td>Gabrielly</td></td>
+        <td>10/07</td></td>
+        <td>Renann</td></td>
+    </tr>
+    <tr>
+        <td>Planejamento do Projeto</td>
+        <td>11/07</td>
+        <td>Tiago</td></td>
+        <td>10/07</td></td>
+        <td>Nicolas</td></td>
+    </tr>
+    <tr>
+        <td>Ferramentas</td>
+        <td>11/07</td>
+        <td>Nicolas</td></td>
+        <td>10/07</td></td>
+        <td>Tiago</td></td>
+    </tr>
+    <tr>
+        <td>Processo de Design</td>
+        <td>11/07</td>
+        <td>Gabrielly</td></td>
+        <td>10/07</td></td>
+        <td>Renann</td></td>
+    </tr>
+</table>
 
 <figcaption align='center'>
-  <h6>  <b>Tabela 1: Cronograma de tarefas da Apresentação 1.</b><br></h6>
+  <h6><b>Tabela 1: Cronograma de tarefas da Apresentação 1.</b><br></h6>
     <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
 ## Apresentação da etapa 2 (21/07)
 
-Nessa etapa é analisado o perfil do usuário e como ele se comporta, para assim podermos desenvolver uma pesquisa mais precisa e específica. A seguir a *tabela 2* apresenta um cronograma para entrega dessas tarefas
+Nessa etapa é analisado o perfil do usuário e como ele se comporta, para assim podermos desenvolver uma pesquisa mais precisa e específica. A seguir a *tabela 2* apresenta um cronograma para entrega dessas tarefas.
 
-|                     Tarefa                      | Data limite |    Autor(es)     | Revisor |
-|:-----------------------------------------------:|:-----------:|:----------------:|:-------:|
-|                Perfil do usuário                |    20/07    |      Renann      | Nicolas |
-| Aspectos Éticos de Pesquisas Envolvendo Pessoas |    20/07    | Gabrielly e Tiago | Nicolas |
-|          Personas e Análise de tarefas          |    20/07    | Nicolas e Paulo  | Renann  |
+<table border="1">
+    <tr>
+        <td><b>Tarefa</b></td>
+        <td><b>Data de Entrega</b></td>
+        <td><b>Autor</b></td>
+        <td><b>Data de Revisão</b></td>
+        <td><b>Revisor</b></td>
+    </tr>
+    <tr>
+        <td>Perfil do Usuário</td>
+        <td>20/07</td>
+        <td>Renann</td></td>
+        <td>19/07</td></td>
+        <td>Nicolas</td></td>
+    </tr>
+    <tr>
+        <td>Aspectos Éticos de Pesquisas Envolvendo Pessoas</td>
+        <td>20/07</td>
+        <td>Gabrielly e Tiago</td></td>
+        <td>19/07</td></td>
+        <td>Paulo</td></td>
+    </tr>
+    <tr>
+        <td>Personas e Análise de tarefas</td>
+        <td>20/07</td>
+        <td>Nicolas e Paulo</td></td>
+        <td>19/07</td></td>
+        <td>Renann</td></td>
+    </tr>
+</table>
 
 <figcaption align='center'>
-   <h6> <b>Tabela 2: Cronograma de tarefas da Apresentação 2.</b><br></h6>
+   <h6><b>Tabela 2: Cronograma de tarefas da Apresentação 2.</b><br></h6>
     <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
@@ -46,11 +107,36 @@ Nessa etapa é analisado o perfil do usuário e como ele se comporta, para assim
 
 Nessa etapa é avaliado quais metas devem ser atingidas e define o guia de estilo. A seguir a *tabela 3* apresenta um cronograma para entrega dessas tarefas.
 
-|            Tarefa            | Data limite |     Autor(es)     | Revisor |
-|:----------------------------:|:-----------:|:-----------------:|:-------:|
-| Princípios Gerais de Projeto |    01/08    | Renann e Gabrielly |  Paulo  |
-|     Metas de usabilidade     |    01/08    |  Nicolas e Paulo  | Renann  |
-|        Guia de Estilo        |    01/08    |       Tiago       |  Paulo  |
+<table border="1">
+    <tr>
+        <td><b>Tarefa</b></td>
+        <td><b>Data de Entrega</b></td>
+        <td><b>Autor</b></td>
+        <td><b>Data de Revisão</b></td>
+        <td><b>Revisor</b></td>
+    </tr>
+    <tr>
+        <td>Princípios Gerais de Projeto</td>
+        <td>01/08</td>
+        <td>Renann e Gabrielly</td></td>
+        <td>31/07</td></td>
+        <td>Paulo</td></td>
+    </tr>
+    <tr>
+        <td>Metas de Usabilidade</td>
+        <td>01/08</td>
+        <td>Nicolas e Paulo</td></td>
+        <td>31/07</td></td>
+        <td>Gabrielly</td></td>
+    </tr>
+    <tr>
+        <td>Guia de Estilo</td>
+        <td>01/08</td>
+        <td>Tiago</td></td>
+        <td>31/07</td></td>
+        <td>Renann</td></td>
+    </tr>
+</table>
 
 <figcaption align='center'>
   <h6><b>Tabela 3: Cronograma de tarefas da Apresentação 3.</b><br></h6>
@@ -61,12 +147,50 @@ Nessa etapa é avaliado quais metas devem ser atingidas e define o guia de estil
 
 Nessa etapa avalia-se o storyboard e análise de tarefas. A seguir a *tabela 4* apresenta um cronograma para entrega dessas tarefas.
 
-|                                  Tarefa                                  | Data limite |    Autor(es)     | Revisor  |
-|:------------------------------------------------------------------------:|:-----------:|:----------------:|:--------:|
-|                 Planejamento da Avaliação do Storyboard                  |    11/08    |     Gabrielly     |  Renann  |
-|     Planejamento do relato dos resultados da avaliação do Storyboard     |    11/08    | Nicolas e Renann | Tiago |
-|             Planejamento da Avaliação do Análise de tarefas              |    11/08    |      Paulo       | Gabrielly |
-| Planejamento do relato dos resultados da avaliação do Análise de tarefas |    11/08    |  Tiago e Paulo   | Paulo |
+<table border="1">
+    <tr>
+        <td><b>Tarefa</b></td>
+        <td><b>Data de Entrega</b></td>
+        <td><b>Autor</b></td>
+        <td><b>Data de Revisão</b></td>
+        <td><b>Revisor</b></td>
+    </tr>
+    <tr>
+        <td>Planejamento da Avaliação do Storyboard </td>
+        <td>08/08</td>
+        <td>Gabrielly</td></td>
+        <td>06/08</td></td>
+        <td>Renann</td></td>
+    </tr>
+    <tr>
+        <td>Planejamento do relato dos resultados da avaliação do Storyboard</td>
+        <td>08/08</td>
+        <td>Paulo</td></td>
+        <td>07/07</td></td>
+        <td>Gabrielly</td></td>
+    </tr>
+    <tr>
+        <td>Planejamento da Avaliação do Análise de tarefas</td>
+        <td>08/08</td>
+        <td>Nicolas</td></td>
+        <td>07/07</td></td>
+        <td>Renann</td></td>
+    </tr>
+    <tr>
+        <td>Planejamento do relato dos resultados da avaliação da Análise de tarefas </td>
+        <td>08/08</td>
+        <td>Tiago</td></td>
+        <td>07/07</td></td>
+        <td>Paulo</td></td>
+    </tr>
+    <tr>
+        <td>Confeccionar Storyboards</td>
+        <td>05/08</td>
+        <td>Gabrielly e Renann</td></td>
+        <td>07/07</td></td>
+        <td>Tiago</td></td>
+    </tr>
+</table>
 
 <figcaption align='center'>
    <h6> <b>Tabela 4: Cronograma de tarefas da Apresentação 4.</b><br></h6>
@@ -77,24 +201,63 @@ Nessa etapa avalia-se o storyboard e análise de tarefas. A seguir a *tabela 4* 
 
 Nessa etapa com base nos resultados da etapa anterior planeja-se a avaliação do protótipo e a avaliação da análise de tarefas. A seguir a *tabela 5* apresenta um cronograma para entrega dessas tarefas.
 
-|                                  Tarefa                                  | Data limite |    Autor(es)     | Revisor |
-|:------------------------------------------------------------------------:|:-----------:|:----------------:|:-------:|
-|       Relato dos resultados do Story Board e da Análise de tarefas       |    17/08    |  Renann e Gabrielly  |  Paulo  |
-|             Planejamento da Avaliação do Protótipo de Papel              |    17/08    | Tiago e Paulo |  Nicolas  |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel |    17/08    |     Nicolas      |  Tiago  |
+<table border="1">
+    <tr>
+        <td><b>Tarefa</b></td>
+        <td><b>Data de Entrega</b></td>
+        <td><b>Autor</b></td>
+        <td><b>Data de Revisão</b></td>
+        <td><b>Revisor</b></td>
+    </tr>
+    <tr>
+        <td>Relato dos resultados do Storyboard e da Análise de tarefas</td>
+        <td>14/08</td>
+        <td>Gabrielly e Renann</td></td>
+        <td>13/08</td></td>
+        <td>Paulo</td></td>
+    </tr>
+    <tr>
+        <td>Planejamento da Avaliação do Protótipo de Papel</td>
+        <td>14/08</td>
+        <td>Tiago e Paulo</td></td>
+        <td>13/07</td></td>
+        <td>Gabrielly</td></td>
+    </tr>
+    <tr>
+        <td>Planejamento do relato dos resultados da avaliação do Protótipo de Papel </td>
+        <td>14/08</td>
+        <td>Nicolas</td></td>
+        <td>13/07</td></td>
+        <td>Renann</td></td>
+    </tr>
+</table>
 
 <figcaption align='center'>
-   <h6> <b>Tabela 5: Cronograma de tarefas da Apresentação 5.</b><br></h6>
+   <b>Tabela 5: Cronograma de tarefas da Apresentação 5.</b><br>
     <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
 ## Apresentação da etapa 6 (23/08)
 
-Nessa etapa será feita uma verificação e revisão de todos os artefatos gerados. A seguir a *tabela 6* apresenta um cronograma para entrega dessas tarefas.
+Nessa etapa será feita uma verificação e revisão de todos os artefatos gerados. A seguir a *tabela 6* apresenta um cronograma para entrega dessas 
+tarefas.
 
-|          Tarefa           | Data limite |      Autor(es)       |       Revisor        |
-|:-------------------------:|:-----------:|:--------------------:|:--------------------:|
-| Verificação dos artefatos |    22/08    | Todos os integrantes | Todos os integrantes |
+<table border="1">
+    <tr>
+        <td><b>Tarefa</b></td>
+        <td><b>Data de Entrega</b></td>
+        <td><b>Autor</b></td>
+        <td><b>Data de Revisão</b></td>
+        <td><b>Revisor</b></td>
+    </tr>
+    <tr>
+        <td>Verificação dos Artefatos </td>
+        <td>21/08</td>
+        <td>Todos os integrantes</td></td>
+        <td>20/08</td></td>
+        <td>Todos os integrantes</td></td>
+    </tr>
+</table>
   
 <figcaption align='center'>
  <h6><b>Tabela 6: Cronograma de tarefas da Apresentação 6</b><br></h6>
@@ -105,11 +268,36 @@ Nessa etapa será feita uma verificação e revisão de todos os artefatos gerad
 
 Nessa etapa o foco é a elaboração de um protótipo de alta fidelidade e planejar possíveis melhorias para a entrega do projeto. A seguir a *tabela 7* apresenta um cronograma para entrega dessas tarefas.
 
-|                                       Tarefa                                        | Data limite |    Autor(es)     | Revisor |
-|:-----------------------------------------------------------------------------------:|:-----------:|:----------------:|:-------:|
-|                     Relato dos resultados do Protótipo de Papel                     |    05/09    |     Gabrielly     | Renann  |
-|              Planejamento da Avaliação do protótipo de alta fidelidade              |    05/09    | Renann e Nicolas |  Tiago  |
-| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade. |    05/09    |  Tiago e Paulo   | Renann  |
+<table border="1">
+    <tr>
+        <td><b>Tarefa</b></td>
+        <td><b>Data de Entrega</b></td>
+        <td><b>Autor</b></td>
+        <td><b>Data de Revisão</b></td>
+        <td><b>Revisor</b></td>
+    </tr>
+    <tr>
+        <td>Relato dos resultados do protótipo de papel</td>
+        <td>28/08</td>
+        <td>Gabrielly</td></td>
+        <td>27/08</td></td>
+        <td>Renann</td></td>
+    </tr>
+    <tr>
+        <td>Planejamento da Avaliação do protótipo de alta fidelidade</td>
+        <td>28/08</td>
+        <td>Renann e Nicolas</td></td>
+        <td>27/08</td></td>
+        <td>Gabrielly</td></td>
+    </tr>
+    <tr>
+        <td>Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</td>
+        <td>28/08</td>
+        <td>Tiago e Paulo</td></td>
+        <td>27/08</td></td>
+        <td>Nicolas</td></td>
+    </tr>
+</table>                                    
 
 <figcaption align='center'>
  <h6><b>Tabela 7: Cronograma de tarefas da Apresentação 7</b><br></h6>
