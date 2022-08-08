@@ -3,10 +3,10 @@ title: Resultados da Avaliação - Storyboard
 parent: Nível 1
 grand_parent: Design, Avaliação e Desenvolvimento
 has_children: false
-nav_order: 3
+nav_order: 4
 ---
 
-# Resultados da Avaliação do Storyboard
+# Resultados da Avaliação - Storyboard
 
 ## 1. Objetivo
 
@@ -186,6 +186,9 @@ Este documento tem o objetivo de registrar as entrevistas feitas sobre a avalia�
 
 Após as entrevistas, podemos concluir que o primeiro storyboard está de acordo com o esperado, entregando tudo que se espera dele. O segundo storyboard possui algumas melhorias que podem ser feitas, mas ao todo está condizente.
 
+## Bibliografia
+
+BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
 
 ## Versionamento
 

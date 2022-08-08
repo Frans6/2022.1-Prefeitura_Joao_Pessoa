@@ -3,10 +3,10 @@ title: Resultados da Avaliação - Análise de Tarefas
 parent: Nível 1
 grand_parent: Design, Avaliação e Desenvolvimento
 has_children: false
-nav_order: 4
+nav_order: 2
 ---
 
-# Resultados da Avaliação de Análise de Tarefas
+# Resultados da Avaliação - Análise de Tarefas
 
 ## 1. Objetivo
 
@@ -83,6 +83,9 @@ Devido a dificuldade de encontrar moradores da cidade de João Pessoa que se enq
 
 Com base nas entrevistas, podemos afirmar que boa parte das tarefas que os usuários realizam foram documentadas corretamente e os problemas enfrentados foram previstos, mas algumas tarefas não foram incluídas.
 
+## Bibliografia
+
+BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
 
 ## Versionamento
 
