@@ -9,16 +9,19 @@ nav_order: 6
 
 <p align = "justify">
 &emsp;&emsp; O objetivo de um storyboard é obter uma visualização de uma ação do usuário ao realizar determinada tarefa no sistema, podendo consolidar ideias e corrigir problemas nas etapas iniciais do projeto.
+</p>
 
 <p align = "justify">
 &emsp;&emsp;Dito isso, este documento tem como objetivo planejar como será realizado a avaliação do storyboard desenvolvido pela nossa equipe, detalhando o máximo possível os aspectos referentes a avaliação do storyboard, de modo que o futuro avaliador possa realizar uma avaliação metódica e sistemática com diversos usuários.
+</p>
 
 ## 2. Metodologia
 
 <p align = "justify">
 &emsp;&emsp; 
 Para realizar a avaliação utilizamos  a metodologia de inspeção por ser possível de realizar sem ter contato com moradores reais da cidade. Para isso, será atribuido um integrante do grupo para representar cada persona descrita nos Storyboards. 
-
+</p>
+    
 ## 4. Avaliação
 
 ### 4.1 Perguntas
@@ -63,17 +66,20 @@ Para realizar a avaliação utilizamos  a metodologia de inspeção por ser poss
 
 ### 4.2. Aplicação da Avaliação
 
-<p align = "justify">
+<p align = "justify"></p>
 
 ### 4.3. Relato dos resultados
+   
 
 <p align = "justify">
 &emsp;&emsp;
+</p>
 
 ## 6. Conclusão
 
 <p align = "justify">
 &emsp;&emsp;
+</p>
 
 ## Bibliografia
 
