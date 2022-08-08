@@ -1,5 +1,5 @@
 ---
-title: Resultados da Avaliação do Storyboard
+title: Resultados da Avaliação - Storyboard
 parent: Nível 1
 has_children: false
 nav_order: 3
@@ -192,5 +192,4 @@ Após as entrevistas, podemos concluir que o primeiro storyboard está de acordo
 | ----- | -------- | ------------------------------ | -------------------------------------------------- |
 | 07/08 | v0       | Criação da página              | [Paulo](https://github.com/paulomacieltorresfilho) |
 | 08/08 | v0.1     | Correção de textos e cabeçalho | [Paulo](https://github.com/paulomacieltorresfilho) |
-| 08/08 | v0.2	   | Adição da conclusão			| [Paulo](https://github.com/paulomacieltorresfilho) |
-
+| 08/08 | v0.2     | Revisão do documento | [Gabrielly](https://github.com/GabriellyAssuncao) |
