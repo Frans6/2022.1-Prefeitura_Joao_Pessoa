@@ -1,8 +1,8 @@
 ---
-    title: Resultados da Avaliação - Análise de Tarefas
-    parent: Nível 1
-    has_children: false
-    nav_order: 9
+title: Resultados da Avaliação - Análise de Tarefas
+parent: Nível 1
+has_children: false
+nav_order: 4
 ---
 
 # Resultados da Avaliação de Análise de Tarefas
