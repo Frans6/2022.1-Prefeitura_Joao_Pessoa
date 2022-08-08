@@ -66,19 +66,21 @@ Para realizar a avaliação utilizamos  a metodologia de inspeção por ser poss
 
 ### 4.2. Aplicação da Avaliação
 
-<p align = "justify"></p>
+<p align = "justify">
+&emsp;&emsp;Inicialmente, às margens de se executar a entrevista, o entrevistador informará o tempo máximo de execução da entrevista, que será de 10 minutos, as diretrizes iniciais do projeto, motivações e obterá o aceite no Termo de Consentimento. 
+</p>
 
 ### 4.3. Relato dos resultados
    
 
 <p align = "justify">
-&emsp;&emsp;
+&emsp;&emsp;O documento relatando de resultados da avaliação deve conter os objetivos e o escopo da avaliação e a descrição das tarefas analisadas.
 </p>
 
 ## 6. Conclusão
 
 <p align = "justify">
-&emsp;&emsp;
+&emsp;&emsp;A partir do estudo a respeito dos benefícios de se construir uma estrutura de planejamento para essa importante fase do projeto, acreditamos que poderemos potencializar os resultados obtidos nas entrevistas. Por serem perguntas direcionadas ao objetivo pretendedido, acreditamos também que os dados serão mais completos e coeretentes.
 </p>
 
 ## Bibliografia
@@ -90,3 +92,4 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, 
 | Data  | Versão |          Descrição           |                                               Autor                                                |
 |:-----:|:------:|:----------------------------:|:--------------------------------------------------------------------------------------------------:|
 | 06/08 |   v0   |      Criação do documento       |      [Gabrielly](https://github.com/GabriellyAssuncao)                         |
+| 07/08 |   v0.1  |      Revisão do documento       |      [Renann](https://github.com/NyndoND)                         |
