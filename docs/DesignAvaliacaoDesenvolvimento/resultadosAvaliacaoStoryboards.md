@@ -92,8 +92,14 @@ Devido a dificuldade de encontrar moradores da cidade de João Pessoa que se enq
 | 10     | O que acha do site da prefeitura de João Pessoa?      | Utilizei poucas vezes, não tenho muito o que reclamar |
 | 11     | Teve facilidade de encontrar o que desejava?          | Não                                                   |
 
+### 4. Conclusão
+
+Com base nas entrevistas, podemos afirmar que boa parte das tarefas que os usuários realizam foram documentadas corretamente e os problemas enfrentados foram previstos, mas algumas tarefas não foram incluídas.
+
+
 ## Versionamento
 
-| Data  | Versão | Descrição         | Autor                                              |
-| ----- | ------ | ----------------- | -------------------------------------------------- |
-| 07/08 | v0     | Criação da página | [Paulo](https://github.com/paulomacieltorresfilho) |
+| Data  | Versão   | Descrição           | Autor                                              |
+| ----- | -------- | ------------------- | -------------------------------------------------- |
+| 07/08 | v0       | Criação da página   | [Paulo](https://github.com/paulomacieltorresfilho) |
+| 08/08 | v0.1     | Adicao da conclusão | [Paulo](https://github.com/paulomacieltorresfilho) |
