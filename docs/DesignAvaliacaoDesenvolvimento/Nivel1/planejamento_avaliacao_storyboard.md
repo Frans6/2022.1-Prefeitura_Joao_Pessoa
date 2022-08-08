@@ -1,8 +1,8 @@
 ---
 title: Planejamento da Avaliação - Storyboard
-parent: Design, Avaliação e Desenvolvimento
+parent: Nível 2
 has_children: false
-nav_order: 6
+nav_order: 1
 ---
 
 ## 1.Introdução

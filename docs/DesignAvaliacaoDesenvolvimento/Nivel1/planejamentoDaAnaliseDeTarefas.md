@@ -1,8 +1,8 @@
 ---
 title: Planejamento da Avaliação - Análise de Tarefas
-parent: Design, Avaliação e Desenvolvimento
+parent: Nível 1
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 # Planejamento da análise de tarefas
