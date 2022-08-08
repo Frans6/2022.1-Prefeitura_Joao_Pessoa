@@ -79,7 +79,7 @@ Este documento tem o objetivo de registrar as entrevistas feitas sobre a avalia�
     <tr>
         <td>3</td>
         <td>Com relação ao primeiro storyboard,   qual sugestão de alteração ou melhoria para o storyboard sugere?</td>
-        <td>Utilozar uma letra mais legível</td>
+        <td>Utilizar uma letra mais legível</td>
     </tr>
     <tr>
         <td>4</td>
@@ -176,7 +176,7 @@ Este documento tem o objetivo de registrar as entrevistas feitas sobre a avalia�
     <tr>
         <td>6</td>
        <td>Com relação ao primeiro storyboard,   qual sugestão de alteração ou melhoria para o storyboard sugere?</td>
-        <td>Mostrat uma aplicação mais prática e visual da aplicação</td>
+        <td>Mostrar uma aplicação mais prática e visual da aplicação</td>
     </tr>
 
 </table>
@@ -184,5 +184,6 @@ Este documento tem o objetivo de registrar as entrevistas feitas sobre a avalia�
 ## Versionamento
 
 | Data  | Versão | Descrição         | Autor                                              |
-| ----- | ------ | ----------------- | -------------------------------------------------- |
-| 07/08 | v0     | Criação da página | [Paulo](https://github.com/paulomacieltorresfilho) |
+| ----- | -------- | ------------------------------ | -------------------------------------------------- |
+| 07/08 | v0       | Criação da página              | [Paulo](https://github.com/paulomacieltorresfilho) |
+| 08/08 | v0.1     | Correção de textos e cabeçalho | [Paulo](https://github.com/paulomacieltorresfilho) |
