@@ -1,7 +1,7 @@
 ---
     title: Resultados da Avaliação de Análise de Tarefas
-    parent: Design, Avaliação e Desenvolvimento
-    has-children: false
+    parent: Nível 1
+    has_children: false
     nav_order: 9
 ---
 
