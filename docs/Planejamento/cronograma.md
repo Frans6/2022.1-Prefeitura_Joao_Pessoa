@@ -24,37 +24,37 @@ Nessa etapa o foco é observar os site avaliados por cada integrante, entender o
     <tr>
         <td>Cronograma</td>
         <td>11/07</td>
-        <td>Renann</td></td>
-        <td>10/07</td></td>
-        <td>Gabrielly</td></td>
+        <td>Renann</td>
+        <td>10/07</td>
+        <td>Gabrielly</td>
     </tr>
     <tr>
         <td>Introdução e Equipe</td>
         <td>11/07</td>
-        <td>Gabrielly</td></td>
-        <td>10/07</td></td>
-        <td>Renann</td></td>
+        <td>Gabrielly</td>
+        <td>10/07</td>
+        <td>Renann</td>
     </tr>
     <tr>
         <td>Planejamento do Projeto</td>
         <td>11/07</td>
-        <td>Tiago</td></td>
-        <td>10/07</td></td>
-        <td>Nicolas</td></td>
+        <td>Tiago</td>
+        <td>10/07</td>
+        <td>Nicolas</td>
     </tr>
     <tr>
         <td>Ferramentas</td>
         <td>11/07</td>
-        <td>Nicolas</td></td>
-        <td>10/07</td></td>
-        <td>Tiago</td></td>
+        <td>Nicolas</td>
+        <td>10/07</td>
+        <td>Tiago</td>
     </tr>
     <tr>
         <td>Processo de Design</td>
         <td>11/07</td>
-        <td>Gabrielly</td></td>
-        <td>10/07</td></td>
-        <td>Renann</td></td>
+        <td>Gabrielly</td>
+        <td>10/07</td>
+        <td>Renann</td>
     </tr>
 </table>
 
@@ -78,23 +78,23 @@ Nessa etapa é analisado o perfil do usuário e como ele se comporta, para assim
     <tr>
         <td>Perfil do Usuário</td>
         <td>20/07</td>
-        <td>Renann</td></td>
-        <td>19/07</td></td>
-        <td>Nicolas</td></td>
+        <td>Renann</td>
+        <td>19/07</td>
+        <td>Nicolas</td>
     </tr>
     <tr>
         <td>Aspectos Éticos de Pesquisas Envolvendo Pessoas</td>
         <td>20/07</td>
-        <td>Gabrielly e Tiago</td></td>
-        <td>19/07</td></td>
-        <td>Paulo</td></td>
+        <td>Gabrielly e Tiago</td>
+        <td>19/07</td>
+        <td>Paulo</td>
     </tr>
     <tr>
         <td>Personas e Análise de tarefas</td>
         <td>20/07</td>
-        <td>Nicolas e Paulo</td></td>
-        <td>19/07</td></td>
-        <td>Renann</td></td>
+        <td>Nicolas e Paulo</td>
+        <td>19/07</td>
+        <td>Renann</td>
     </tr>
 </table>
 
@@ -118,23 +118,23 @@ Nessa etapa é avaliado quais metas devem ser atingidas e define o guia de estil
     <tr>
         <td>Princípios Gerais de Projeto</td>
         <td>01/08</td>
-        <td>Renann e Gabrielly</td></td>
-        <td>31/07</td></td>
-        <td>Paulo</td></td>
+        <td>Renann e Gabrielly</td>
+        <td>31/07</td>
+        <td>Paulo</td>
     </tr>
     <tr>
         <td>Metas de Usabilidade</td>
         <td>01/08</td>
-        <td>Nicolas e Paulo</td></td>
-        <td>31/07</td></td>
-        <td>Gabrielly</td></td>
+        <td>Nicolas e Paulo</td>
+        <td>31/07</td>
+        <td>Gabrielly</td>
     </tr>
     <tr>
         <td>Guia de Estilo</td>
         <td>01/08</td>
-        <td>Tiago</td></td>
-        <td>31/07</td></td>
-        <td>Renann</td></td>
+        <td>Tiago</td>
+        <td>31/07</td>
+        <td>Renann</td>
     </tr>
 </table>
 
@@ -156,39 +156,39 @@ Nessa etapa avalia-se o storyboard e análise de tarefas. A seguir a *tabela 4* 
         <td><b>Revisor</b></td>
     </tr>
     <tr>
-        <td>Planejamento da Avaliação do Storyboard </td>
+        <td>Planejamento da Avaliação do Storyboard</td>
         <td>08/08</td>
-        <td>Gabrielly</td></td>
-        <td>06/08</td></td>
-        <td>Renann</td></td>
+        <td>Gabrielly</td>
+        <td>06/08</td>
+        <td>Renann</td>
     </tr>
     <tr>
         <td>Planejamento do relato dos resultados da avaliação do Storyboard</td>
         <td>08/08</td>
-        <td>Paulo</td></td>
-        <td>07/07</td></td>
-        <td>Gabrielly</td></td>
+        <td>Paulo</td>
+        <td>07/07</td>
+        <td>Gabrielly</td>
     </tr>
     <tr>
         <td>Planejamento da Avaliação do Análise de tarefas</td>
         <td>08/08</td>
-        <td>Nicolas</td></td>
-        <td>07/07</td></td>
-        <td>Renann</td></td>
+        <td>Nicolas</td>
+        <td>07/07</td>
+        <td>Renann</td>
     </tr>
     <tr>
         <td>Planejamento do relato dos resultados da avaliação da Análise de tarefas </td>
         <td>08/08</td>
-        <td>Tiago</td></td>
-        <td>07/07</td></td>
-        <td>Paulo</td></td>
+        <td>Tiago</td>
+        <td>07/07</td>
+        <td>Paulo</td>
     </tr>
     <tr>
         <td>Confeccionar Storyboards</td>
         <td>05/08</td>
-        <td>Gabrielly e Renann</td></td>
-        <td>07/07</td></td>
-        <td>Tiago</td></td>
+        <td>Gabrielly e Renann</td>
+        <td>07/07</td>
+        <td>Tiago</td>
     </tr>
 </table>
 
@@ -204,31 +204,31 @@ Nessa etapa com base nos resultados da etapa anterior planeja-se a avaliação d
 <table border="1">
     <tr>
         <td><b>Tarefa</b></td>
-        <td><b>Data de Entrega</b></td>
-        <td><b>Autor</b></td>
-        <td><b>Data de Revisão</b></td>
-        <td><b>Revisor</b></td>
+        <><b>Data de Entrega</b>
+        <><b>Autor</b>
+        <><b>Data de Revisão</b>
+        <><b>Revisor</b>
     </tr>
     <tr>
         <td>Relato dos resultados do Storyboard e da Análise de tarefas</td>
         <td>14/08</td>
-        <td>Gabrielly e Renann</td></td>
-        <td>13/08</td></td>
-        <td>Paulo</td></td>
+        <td>Gabrielly e Renann</td>
+        <td>13/08</td>
+        <td>Paulo</td>
     </tr>
     <tr>
         <td>Planejamento da Avaliação do Protótipo de Papel</td>
         <td>14/08</td>
-        <td>Tiago e Paulo</td></td>
-        <td>13/07</td></td>
-        <td>Gabrielly</td></td>
+        <td>Tiago e Paulo</td>
+        <td>13/07</td>
+        <td>Gabrielly</td>
     </tr>
     <tr>
         <td>Planejamento do relato dos resultados da avaliação do Protótipo de Papel </td>
         <td>14/08</td>
-        <td>Nicolas</td></td>
-        <td>13/07</td></td>
-        <td>Renann</td></td>
+        <td>Nicolas</td>
+        <td>13/07</td>
+        <td>Renann</td>
     </tr>
 </table>
 
@@ -251,11 +251,11 @@ tarefas.
         <td><b>Revisor</b></td>
     </tr>
     <tr>
-        <td>Verificação dos Artefatos </td>
+        <td>Verificação dos Artefatos</td>
         <td>21/08</td>
-        <td>Todos os integrantes</td></td>
-        <td>20/08</td></td>
-        <td>Todos os integrantes</td></td>
+        <td>Todos os integrantes</td>
+        <td>20/08</td>
+        <td>Todos os integrantes</td>
     </tr>
 </table>
   
@@ -279,23 +279,23 @@ Nessa etapa o foco é a elaboração de um protótipo de alta fidelidade e plane
     <tr>
         <td>Relato dos resultados do protótipo de papel</td>
         <td>28/08</td>
-        <td>Gabrielly</td></td>
-        <td>27/08</td></td>
-        <td>Renann</td></td>
+        <td>Gabrielly</td>
+        <td>27/08</td>
+        <td>Renann</td>
     </tr>
     <tr>
         <td>Planejamento da Avaliação do protótipo de alta fidelidade</td>
         <td>28/08</td>
-        <td>Renann e Nicolas</td></td>
-        <td>27/08</td></td>
-        <td>Gabrielly</td></td>
+        <td>Renann e Nicolas</td>
+        <td>27/08</td>
+        <td>Gabrielly</td>
     </tr>
     <tr>
         <td>Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</td>
         <td>28/08</td>
-        <td>Tiago e Paulo</td></td>
-        <td>27/08</td></td>
-        <td>Nicolas</td></td>
+        <td>Tiago e Paulo</td>
+        <td>27/08</td>
+        <td>Nicolas</td>
     </tr>
 </table>                                    
 
