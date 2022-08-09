@@ -10,6 +10,6 @@ Reengenharia, desenvolvimento de protótipos de baixa fidelidade, avaliação, v
 
 ## Versionamento
 
-| Data  | Versão |       Descrição        |    Autor    |
-|:-----:|:------:|:----------------------:|:-----------:|
-| 17/07 |   v0   |   Criação da página    | [Renann](https://github.com/NyndoND) |
+| Data  | Versão |     Descrição     |                Autor                 |
+| :---: | :----: | :---------------: | :----------------------------------: |
+| 17/07 |   v0   | Criação da página | [Renann](https://github.com/NyndoND) |

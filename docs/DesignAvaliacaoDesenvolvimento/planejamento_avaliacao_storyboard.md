@@ -91,7 +91,7 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, 
 
 ## Versionamento
 
-| Data  | Versão |          Descrição           |                                               Autor                                                |
-|:-----:|:------:|:----------------------------:|:--------------------------------------------------------------------------------------------------:|
-| 06/08 |   v0   |      Criação do documento       |      [Gabrielly](https://github.com/GabriellyAssuncao)                         |
-| 07/08 |   v0.1  |      Revisão do documento       |      [Renann](https://github.com/NyndoND)                         |
+| Data  | Versão |      Descrição       |                       Autor                       |
+| :---: | :----: | :------------------: | :-----------------------------------------------: |
+| 06/08 |   v0   | Criação do documento | [Gabrielly](https://github.com/GabriellyAssuncao) |
+| 07/08 |  v0.1  | Revisão do documento |       [Renann](https://github.com/NyndoND)        |

@@ -54,6 +54,6 @@ PREECE, Jennifer; ROGERS, Yvone; SHARP, Helen. Design de Interação: Além da I
 
 ## Versionamento
  
-| Data  | Versão |     Descrição     |    Autor    |
-|:-----:|:------:|:-----------------:|:-----------:|
-| 29/07 |   v0   | Criação da página  | [Nicolas](https://github.com/Nicolas-Roberto) |
+| Data  | Versão |     Descrição     |                     Autor                     |
+| :---: | :----: | :---------------: | :-------------------------------------------: |
+| 29/07 |   v0   | Criação da página | [Nicolas](https://github.com/Nicolas-Roberto) |

@@ -35,13 +35,13 @@ No segundo storyboard é abordado como é feito o acesso ao site para ler todas 
 
 ## 3. Resultados
 
-<center> <img  src="../../assets/storyboards/storyboard.jpeg" class="center-align" width="500" height = "300"> </center>
+<center> <img  src="../assets/storyboards/storyboard.jpeg" class="center-align" width="500" height = "300"> </center>
 <figcaption align='center'>
   <h5>  <b>Storyboard 1: tarefa - acessar informações sobre a pandemia do covid-19 </b><br> </h5>
   <small>Fonte: autor</small>
 </figcaption>
 
-<center> <img  src="../../assets/storyboards/storyboard2.jpg" width="500" height = "700"> </center>
+<center> <img  src="../assets/storyboards/storyboard2.jpg" width="500" height = "700"> </center>
 <figcaption align='center'>
   <h5>  <b>Storyboard 2: tarefa - acessar as principais notícias </b><br> </h5>
   <small>Fonte: autor</small>
@@ -58,7 +58,7 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, 
 
 ## Versionamento
 
-| Data  | Versão |          Descrição           |                                               Autor                                                |
-|:-----:|:------:|:----------------------------:|:--------------------------------------------------------------------------------------------------:|
-| 06/08 |   v0   |      Criação do documento       |      [Gabrielly](https://github.com/GabriellyAssuncao)     |
-| 07/08 |   v0.1   |      Revisão do documento       |      [Renann](https://github.com/NyndoND)     |
+| Data  | Versão |      Descrição       |                       Autor                       |
+| :---: | :----: | :------------------: | :-----------------------------------------------: |
+| 06/08 |   v0   | Criação do documento | [Gabrielly](https://github.com/GabriellyAssuncao) |
+| 07/08 |  v0.1  | Revisão do documento |       [Renann](https://github.com/NyndoND)        |

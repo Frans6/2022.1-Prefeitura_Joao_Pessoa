@@ -11,5 +11,5 @@ Analisar o perfil do usuário e como ele se comporta, para assim podermos desenv
 ## Versionamento
 
 | Data  | Versão |     Descrição     |                Autor                |
-|:-----:|:------:|:-----------------:|:-----------------------------------:|
+| :---: | :----: | :---------------: | :---------------------------------: |
 | 17/07 |   v0   | Criação da página | [Renann](https://github.com/NyndoND |

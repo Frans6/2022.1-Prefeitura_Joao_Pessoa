@@ -7,6 +7,8 @@ nav_order: 4
 
 # Sites Avaliados
 
+## Introdução
+
 Esta seção lista os sites avaliados por cada membro da equipe, disponibilizando o planejamento e execução das avaliações:
 
 ## Detran DF
@@ -66,8 +68,8 @@ O portal de informações agropecuárias é um site da Conab, Companhia Nacional
 
 ## Versionamento
 
-| Data  | Versão |     Descrição      |      Autor      |
-|:-----:|:------:|:------------------:|:---------------:|
-| 08/07 |   V0   | Criação da página  |   Tiago Buson   |
-| 09/07 |  V1.0  | Adição de conteúdo | Nicolas Roberto |
-| 13/07 |  V1.1  | Revisão de conteúdo|     Renann      |
+| Data  | Versão |      Descrição      |      Autor      |
+| :---: | :----: | :-----------------: | :-------------: |
+| 08/07 |   V0   |  Criação da página  |   Tiago Buson   |
+| 09/07 |  V1.0  | Adição de conteúdo  | Nicolas Roberto |
+| 13/07 |  V1.1  | Revisão de conteúdo |     Renann      |

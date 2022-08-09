@@ -122,7 +122,7 @@ Livro: BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora
 
 ## Versionamento
  
-| Data  | Versão |     Descrição     |    Autor    |
-|:-----:|:------:|:-----------------:|:-----------:|
-| 05/08 |   v0   | Criação da página  | [Nicolas](https://github.com/Nicolas-Roberto) |
-| 06/08 |   v0.1  | Revisão do documento  | [Tiago](https://github.com/TiagoBuson) |
+| Data  | Versão |      Descrição       |                     Autor                     |
+| :---: | :----: | :------------------: | :-------------------------------------------: |
+| 05/08 |   v0   |  Criação da página   | [Nicolas](https://github.com/Nicolas-Roberto) |
+| 06/08 |  v0.1  | Revisão do documento |    [Tiago](https://github.com/TiagoBuson)     |

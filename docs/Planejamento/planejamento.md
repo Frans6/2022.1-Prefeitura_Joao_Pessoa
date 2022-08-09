@@ -10,6 +10,6 @@ Organizar e definir as principais tarefas do projeto, definindo sua metodologia 
 
 ## Versionamento
 
-| Data  | Versão |     Descrição     |    Autor    |
-|:-----:|:------:|:-----------------:|:-----------:|
+| Data  | Versão |     Descrição     |                    Autor                     |
+| :---: | :----: | :---------------: | :------------------------------------------: |
 | 08/07 |   v0   | Criação da página | [Tiago Buson](https://github.com/TiagoBuson) |

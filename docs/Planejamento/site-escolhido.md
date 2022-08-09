@@ -7,6 +7,10 @@ nav_order: 5
 
 # Site Escolhido
 
+## Introdução
+
+Nessa arquivo está descrito quais os objetivos e como foi feita a avaliação preliminar do site escolhido para o desenvolvimento do projeto principal.
+
 ## Objetivos (Determine)
 
 Os principais objetivos da avaliação são: Procurar possíveis erros na interação do usuário com o site, verificar a clareza com que o site expõe as informações ao usuário e a simplicidade da navegação.
@@ -62,7 +66,7 @@ Site: https://www.joaopessoa.pb.gov.br/
 
 ## Versionamento
 
-| Data  | Versão |     Descrição      |      Autor      |
-|:-----:|:------:|:------------------:|:---------------:|
-| 08/07 |   v0   | Criação da página  |   [Tiago Buson](https://github.com/TiagoBuson)   |
+| Data  | Versão |     Descrição      |                         Autor                         |
+| :---: | :----: | :----------------: | :---------------------------------------------------: |
+| 08/07 |   v0   | Criação da página  |     [Tiago Buson](https://github.com/TiagoBuson)      |
 | 09/07 |  v0.1  | Adição de conteúdo | [Nicolas Roberto](https://github.com/Nicolas-Roberto) |

@@ -27,7 +27,7 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano - Computador, Editora Elsevier
 ## Versionamento
 
 | Data  | Versão |                    Descrição                    |                           Autor                            |
-|:-----:|:------:|:-----------------------------------------------:|:----------------------------------------------------------:|
+| :---: | :----: | :---------------------------------------------: | :--------------------------------------------------------: |
 | 20/07 |   v0   | Criação da página, com o termo de consentimento |        [Tiago Buson](https://github.com/TiagoBuson)        |
 | 25/07 |  v0.1  |               Texto de introdução               | [Gabrielly Assuncao](https://github.com/GabriellyAssuncao) |
 | 27/07 |  v0.2  |             Inserindo bibliografia              | [Gabrielly Assuncao](https://github.com/GabriellyAssuncao) |

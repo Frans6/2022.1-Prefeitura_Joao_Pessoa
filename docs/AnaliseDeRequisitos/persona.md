@@ -26,16 +26,16 @@ O elenco de personas será utilizado no projeto para representar os grupos de us
 </figcaption>
  
  
-| Persona | Matheus Soares |
-|---------|--------------------|
-| Status: | Persona Primária |
-| Nome: | Matheus Soares |
-| Idade: | 20 |
-| Profissão: | Estudante |
-| Escolaridade: | Ensino Superior incompleto |
-| Habilidades: | Facilidade com escrita e lógica de programação |
-| Tarefas: | Deseja ter acesso ao site para obter informações sobre programas sociais |
-| Expectativas: | Espera que o sistema seja acessível pelo celular e atualizado  |
+| Persona       | Matheus Soares                                                           |
+| ------------- | ------------------------------------------------------------------------ |
+| Status:       | Persona Primária                                                         |
+| Nome:         | Matheus Soares                                                           |
+| Idade:        | 20                                                                       |
+| Profissão:    | Estudante                                                                |
+| Escolaridade: | Ensino Superior incompleto                                               |
+| Habilidades:  | Facilidade com escrita e lógica de programação                           |
+| Tarefas:      | Deseja ter acesso ao site para obter informações sobre programas sociais |
+| Expectativas: | Espera que o sistema seja acessível pelo celular e atualizado            |
  
 <figcaption align='center'>
   <h5>  <b>Tabela 1: Informações da Persona 1 - Matheus</b><br> </h5>
@@ -50,16 +50,16 @@ O elenco de personas será utilizado no projeto para representar os grupos de us
   <small>Fonte: This person does not exist [1] </small>
 </figcaption>
  
-| Persona | Cristina Almeida |
-|---------|--------------------|
-| Status: | Persona Primária |
-| Nome: | Cristina Almeida |
-| Idade: | 24 |
-| Profissão: | Professora |
-| Escolaridade: | Ensino Superior completo |
-| Habilidades: | Facilidade com escrita e boa comunicação |
-| Tarefas: | Deseja ter acesso ao site para ter informações sobre número de casos de covid e notícias em geral |
-| Expectativas: | Espera que o sistema seja de fácil utilização e atualizado |
+| Persona       | Cristina Almeida                                                                                  |
+| ------------- | ------------------------------------------------------------------------------------------------- |
+| Status:       | Persona Primária                                                                                  |
+| Nome:         | Cristina Almeida                                                                                  |
+| Idade:        | 24                                                                                                |
+| Profissão:    | Professora                                                                                        |
+| Escolaridade: | Ensino Superior completo                                                                          |
+| Habilidades:  | Facilidade com escrita e boa comunicação                                                          |
+| Tarefas:      | Deseja ter acesso ao site para ter informações sobre número de casos de covid e notícias em geral |
+| Expectativas: | Espera que o sistema seja de fácil utilização e atualizado                                        |
  
 <figcaption align='center'>
   <h5>  <b>Tabela 2: Informações da Persona 2 - Cristina</b><br> </h5>
@@ -75,16 +75,16 @@ O elenco de personas será utilizado no projeto para representar os grupos de us
   <small>Fonte: This person does not exist [1] </small>
 </figcaption>
  
-| Persona | Rodolfo Pinto |
-|---------|--------------------|
-| Status: | Persona Primária |
-| Nome: | Rodolfo Pinto |
-| Idade: | 31 |
-| Profissão: | Auxiliar administrativo |
-| Escolaridade: | Ensino Superior Incompleto |
-| Habilidades: | Facilidade com escrita e lógica de programação |
-| Tarefas: | Deseja ter acesso ao site para saber os gastos da cidade, ter informações sobre os casos de covid e ter acesso as principais notícias da cidade. |
-| Expectativas: | Espera que o sistema seja atual e de fácil entendimento, para a compreensão do público comum  |
+| Persona       | Rodolfo Pinto                                                                                                                                    |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Status:       | Persona Primária                                                                                                                                 |
+| Nome:         | Rodolfo Pinto                                                                                                                                    |
+| Idade:        | 31                                                                                                                                               |
+| Profissão:    | Auxiliar administrativo                                                                                                                          |
+| Escolaridade: | Ensino Superior Incompleto                                                                                                                       |
+| Habilidades:  | Facilidade com escrita e lógica de programação                                                                                                   |
+| Tarefas:      | Deseja ter acesso ao site para saber os gastos da cidade, ter informações sobre os casos de covid e ter acesso as principais notícias da cidade. |
+| Expectativas: | Espera que o sistema seja atual e de fácil entendimento, para a compreensão do público comum                                                     |
  
 <figcaption align='center'>
   <h5>  <b>Tabela 3: Informações da Persona 3 - Rodolfo</b><br> </h5>
@@ -100,15 +100,15 @@ O elenco de personas será utilizado no projeto para representar os grupos de us
   <small>Fonte: This person does not exist [1] </small>
 </figcaption>
  
-| Persona | Ana Paula Macedo |
-|---------|--------------------|
-| Status: | Anti-Persona |
-| Nome: | Ana Paula Macedo |
-| Idade: | 22 |
-| Profissão: | Influencer |
-| Escolaridade: | Ensino Médio completo |
-| Habilidades: | Fotografia e Dialética |
-| Tarefas: | Divulgação de sua marca |
+| Persona       | Ana Paula Macedo                        |
+| ------------- | --------------------------------------- |
+| Status:       | Anti-Persona                            |
+| Nome:         | Ana Paula Macedo                        |
+| Idade:        | 22                                      |
+| Profissão:    | Influencer                              |
+| Escolaridade: | Ensino Médio completo                   |
+| Habilidades:  | Fotografia e Dialética                  |
+| Tarefas:      | Divulgação de sua marca                 |
 | Expectativas: | Não tem expectativas em relação ao site |
  
 <figcaption align='center'>
@@ -124,10 +124,10 @@ Livro: Interação humano-computador / Simone Diniz Junqueira Barbosa, Bruno San
  
 ## Versionamento
  
-| Data  | Versão |     Descrição     |    Autor    |
-|:-----:|:------:|:-----------------:|:-----------:|
-| 20/07 |   v0   | Criação da página | [Paulo](https://github.com/PauloMacielTorresFilho) |
-| 20/07 |   v1   | Adição do conteúdo da página  | [Nicolas](https://github.com/Nicolas-Roberto) - [Paulo](https://github.com/PauloMacielTorresFilho)|
-| 20/07 |   v1.1  | Adição de legenda das tabelas e imagens  | [Nicolas](https://github.com/Nicolas-Roberto) - [Paulo](https://github.com/PauloMacielTorresFilho)|
-| 20/07 |   v1.2  | Correção dos textos  | [Paulo](https://github.com/PauloMacielTorresFilho)|
-| 20/07 |   v1.3  | Revisão  | [Rennan](https://github.com/NyndoND) |
+| Data  | Versão |                Descrição                |                                               Autor                                                |
+| :---: | :----: | :-------------------------------------: | :------------------------------------------------------------------------------------------------: |
+| 20/07 |   v0   |            Criação da página            |                         [Paulo](https://github.com/PauloMacielTorresFilho)                         |
+| 20/07 |   v1   |      Adição do conteúdo da página       | [Nicolas](https://github.com/Nicolas-Roberto) - [Paulo](https://github.com/PauloMacielTorresFilho) |
+| 20/07 |  v1.1  | Adição de legenda das tabelas e imagens | [Nicolas](https://github.com/Nicolas-Roberto) - [Paulo](https://github.com/PauloMacielTorresFilho) |
+| 20/07 |  v1.2  |           Correção dos textos           |                         [Paulo](https://github.com/PauloMacielTorresFilho)                         |
+| 20/07 |  v1.3  |                 Revisão                 |                                [Rennan](https://github.com/NyndoND)                                |
