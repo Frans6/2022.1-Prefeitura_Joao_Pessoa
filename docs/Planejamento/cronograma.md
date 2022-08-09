@@ -7,6 +7,8 @@ nav_order: 1
 
 # Cronograma 
 
+## Introdução
+
 Com o objetivo de organizar e planejar as tarefas a serem entregadas, foi elaborado um cronograma usando como base principalmente as datas de entregas dos pontos de controle apresentados no *Plano de Ensino*[1]. É desejável que todas as tarefas sejam desenvolvidas até 1 dia antes da data limite, para assim poder existir tempo hábil para uma revisão e possível correção.
 A maioria das tarefas aqui listadas, irão gerar algum tipo de artefatos, para apresentar e documentar o desenvolvimento do projeto.
 
