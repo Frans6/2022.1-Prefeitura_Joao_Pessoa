@@ -204,10 +204,10 @@ Nessa etapa com base nos resultados da etapa anterior planeja-se a avaliação d
 <table border="1">
     <tr>
         <td><b>Tarefa</b></td>
-        <><b>Data de Entrega</b>
-        <><b>Autor</b>
-        <><b>Data de Revisão</b>
-        <><b>Revisor</b>
+        <td><b>Data de Entrega</b></td>
+        <td><b>Autor</b></td>
+        <td><b>Data de Revisão</b></td>
+        <td><b>Revisor</b></td>
     </tr>
     <tr>
         <td>Relato dos resultados do Storyboard e da Análise de tarefas</td>
