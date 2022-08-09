@@ -5,11 +5,11 @@ title: Prefeitura de João Pessoa
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
 
-footer_content: "Copyright 2022 2022.1-Interação Humano-Coputador - Grupo 4 <a href=\"https://github.com/Interacao-Humano-Computador/2022.1-Prefeitura_Joao_Pessoa\">MIT license.</a>"
+footer_content: "Copyright 2022 - 2022.1-Interação Humano-Computador - Grupo 4 <a href=\"https://github.com/Interacao-Humano-Computador/2022.1-Prefeitura_Joao_Pessoa\">MIT license.</a>"
 
 
-logo: "/assets/logos/logo.png"
+# logo: "/assets/logos/logo.png"
 
 aux_links:
-  "Viwe on GitHub":
+  "View on GitHub":
     - "https://github.com/Interacao-Humano-Computador/2022.1-Prefeitura_Joao_Pessoa"

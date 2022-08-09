@@ -2,7 +2,7 @@
 title: Site Escolhido
 parent: Planejamento
 has_children: false
-nav_order: 6
+nav_order: 5
 ---
 
 # Site Escolhido

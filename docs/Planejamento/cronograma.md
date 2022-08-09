@@ -27,8 +27,6 @@ Na tarefa de "Lista de sites e site escolhido", será elaborado um arquivo que i
 Na tarefa de "Processo de desing" será documentado qual o estilo de desing será escolhido pela equipe para seguir aplicar no desenvolvimento do projeto, será levado em consideração a sugestão do professor para usar o "Ciclo de vida de Mayhew". 
 
 
-
-
 |             Tarefa              | Data limite | Autor(es) | Data de revisão |  Revisor  |
 | :-----------------------------: | :---------: | :-------: | :-------------: | :-------: |
 |     Planejamento do projeto     |    11/07    |  Renann   |      11/07      |   Tiago   |
@@ -39,7 +37,7 @@ Na tarefa de "Processo de desing" será documentado qual o estilo de desing ser�
 |           Ferramentas           |    11/07    |   Tiago   |      11/07      |  Renann   |
 
 <figcaption align='center'>
-  <h6>  <b>Tabela 1: Cronograma de tarefas da Apresentação 1.</b><br></h6>
+  <h6><b>Tabela 1: Cronograma de tarefas da Apresentação 1.</b><br></h6>
     <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
@@ -60,7 +58,7 @@ Na tarefa de "Personas e análise de tarefas", será criado dois arquivos: um ar
 |          Personas e Análise de tarefas          |    20/07    |  Nicolas e Paulo  |      20/07      | Renann  |
 
 <figcaption align='center'>
-   <h6> <b>Tabela 2: Cronograma de tarefas da Apresentação 2.</b><br></h6>
+   <h6><b>Tabela 2: Cronograma de tarefas da Apresentação 2.</b><br></h6>
     <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
@@ -128,7 +126,7 @@ Na tarefa de "Revisão do projeto", será feita uma revisão de todos arquivos g
 |                    Revisão do projeto                    |    17/08    |       Renann        |      17/08      |  Tiago  |
 
 <figcaption align='center'>
-   <h6> <b>Tabela 5: Cronograma de tarefas da Apresentação 5.</b><br></h6>
+   <b>Tabela 5: Cronograma de tarefas da Apresentação 5.</b><br>
     <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
@@ -162,6 +160,7 @@ Na tarefa de "Relato dos resultados da avaliação do protótipo de alta fidelid
 |            Relato dos resultados do Protótipo de Papel             |    05/09    |    Gabrielly     |      05/09      | Renann  |
 |     Planejamento da Avaliação do protótipo de alta fidelidade      |    05/09    | Renann e Nicolas |      05/09      |  Tiago  |
 | Relato dos resultados da avaliação do protótipo de alta fidelidade |    05/09    |  Tiago e Paulo   |      05/09      | Renann  |
+
 
 <figcaption align='center'>
  <h6><b>Tabela 7: Cronograma de tarefas da Apresentação 7</b><br></h6>
