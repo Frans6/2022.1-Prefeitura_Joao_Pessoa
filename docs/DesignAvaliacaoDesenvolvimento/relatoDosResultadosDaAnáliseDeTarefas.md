@@ -28,7 +28,7 @@ nav_order: 1
 
 ### 2.2 Ambiente de avaliação
 
-<p align = "justify"> Na própria Biblioteca Central da UnB, em frente ao computador com acesso a internet, para auxílio dos outros integrantes, microfone, conhecimento Básico de Inglês. </p>
+<p align = "justify"> Na própria Biblioteca Central da UnB, em frente ao computador com acesso a internet. </p>
 <p align = "justify"> O grupo sugeriu que para as entrevistas fosse realizada presencialmente. Não foi detectado nenhum problema que pudesse atrapalhar na consolidação dos resultados. </p>
 
 ## 3. Sumário dos dados coletados
