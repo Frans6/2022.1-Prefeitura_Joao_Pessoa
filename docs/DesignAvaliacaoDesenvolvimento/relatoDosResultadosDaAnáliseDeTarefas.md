@@ -6,7 +6,7 @@ has_children: false
 nav_order: 1
 ---
 
-# Planejamento da Avaliação - Análise de Tarefas
+# Relato dos Resultados da Análise de Tarefas
 
 ## 1. Introdução
 
