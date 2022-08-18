@@ -1,3 +1,11 @@
+---
+title: Planejamento do relato dos resultados da avaliação do Protótipo de Papel
+parent: Nível 2
+grand_parent: Design, Avaliação e Desenvolvimento
+has_children: false
+nav_order: 1
+---
+
 # Planejamento da avaliação de baixa fidelidade
 
 ## Introdução 
