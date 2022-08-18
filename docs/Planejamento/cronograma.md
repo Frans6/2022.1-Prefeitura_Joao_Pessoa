@@ -92,19 +92,19 @@ Nessa etapa avalia-se o storyboard e análise de tarefas. A seguir a *tabela 4* 
 
 Na tarefa de "Planejamento da avaliação do storyboard", será apresentado o planejamento de uma avaliação para os storyboard que foram desenvolvidos durante o projeto.
 
-Na tarefa de "Relato dos resultados da avaliação do storyboard", será feito o relato dos resultados da avaliação do storyboard, espera-se que a avaliação seja feita de acordo com o que foi descrito na tarefa "Planejamento da avaliação do storyboard". De acordo com o resultado da avaliação, o storyboard poderá ser atualizado.
+Na tarefa de "Planejamento do relato dos resultados da avaliação do Storyboard", sserá feita uma breve descrição de instruções de como se espera que seja feito o relato dos resultados da avaliação do storyboard, espera-se que a avaliação seja feita de acordo com o que foi descrito na tarefa "Planejamento da avaliação do storyboard". De acordo com o resultado da avaliação, o storyboard poderá ser atualizado.
 
 Na tarefa de "Planejamento da Avaliação do Análise de tarefas", será feito um planejamento detalhado de como será avaliado e apresentado os resultados de uma avaliação para o arquivo "Análise tarefas" desenvolvido anteriormente.
 
-Na tarefa de "Relato dos resultados da avaliação do Análise de tarefas", será feito o relato dos resultados da avaliação da "Análise de tarefas", seguindo o planejamento feito na atividade anterior. De acordo com o resultado da avaliação, a "Análise de tarefas" poderá ser atualizada. 
+Na tarefa de "Planejamento do relato dos resultados da avaliação do Análise de tarefas", será feita uma breve descrição de instruções de como se espera que seja feito o relato dos resultados da avaliação da "Análise de tarefas", seguindo o planejamento feito na atividade anterior. De acordo com o resultado da avaliação, a "Análise de tarefas" poderá ser atualizada. 
 
 
-|                          Tarefa                          | Data limite |    Autor(es)     | Data de revisão |  Revisor  |
-| :------------------------------------------------------: | :---------: | :--------------: | :-------------: | :-------: |
-|         Planejamento da Avaliação do Storyboard          |    08/08    |    Gabrielly     |      08/08      |  Renann   |
-|     Relato dos resultados da avaliação do Storyboard     |    08/08    | Nicolas e Renann |      08/08      |   Tiago   |
-|     Planejamento da Avaliação do Análise de tarefas      |    08/08    |      Paulo       |      08/08      | Gabrielly |
-| Relato dos resultados da avaliação do Análise de tarefas |    08/08    |  Tiago e Paulo   |      08/08      |   Paulo   |
+|                                  Tarefa                                  | Data limite |    Autor(es)     | Data de revisão |  Revisor  |
+| :----------------------------------------------------------------------: | :---------: | :--------------: | :-------------: | :-------: |
+|                 Planejamento da Avaliação do Storyboard                  |    08/08    |    Gabrielly     |      08/08      |  Renann   |
+|     Planejamento do relato dos resultados da avaliação do Storyboard     |    08/08    | Nicolas e Renann |      08/08      |   Tiago   |
+|             Planejamento da Avaliação do Análise de tarefas              |    08/08    |      Paulo       |      08/08      | Gabrielly |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas |    08/08    |  Tiago e Paulo   |      08/08      |   Paulo   |
 
 <figcaption align='center'>
    <h6> <b>Tabela 4: Cronograma de tarefas da Apresentação 4.</b><br></h6>
@@ -115,17 +115,19 @@ Na tarefa de "Relato dos resultados da avaliação do Análise de tarefas", ser�
 
 Nessa etapa com base nos resultados da etapa anterior planeja-se a avaliação do protótipo e a avaliação da análise de tarefas. A seguir a *tabela 5* apresenta um cronograma para entrega dessas tarefas.
 
-Na tarefa de "Planejamento da Avaliação do Protótipo de Papel", deverá ser criado uma arquivo com uma descrição de quais características se espera encontrar no "Protótipo de papel" do projeto, o arquivo deverá apresentar também qual metodologia será usada para avaliar o protótipo de papel.
+Na tarefa de "Planejamento da Avaliação do Protótipo de baixa fidelidade", deverá ser criado uma arquivo com uma descrição de quais características se espera encontrar no "Protótipo de baixa fidelidade" do projeto, o arquivo deverá apresentar também qual metodologia será usada para avaliar o protótipo de baixa fidelidade.
 
-Na tarefa de "Relato dos resultados da avaliação do Protótipo de Papel", será apresentado os resultados obtidos da avaliação do protótipo de papel e com base nos resultados o protótipo poderá ser alterado. Espera-se que a avaliação ocorra da mesma forma que foi planejada na tarefa de "Planejamento da Avaliação do Protótipo de Papel".
+Na tarefa de "Relato dos resultados da avaliação do Protótipo de baixa fidelidade", será apresentado os resultados obtidos da avaliação do protótipo de baixa fidelidade e com base nos resultados o protótipo poderá ser alterado. Espera-se que a avaliação ocorra da mesma forma que foi planejada na tarefa de "Planejamento da Avaliação do Protótipo de baixa fidelidade".
 
 Na tarefa de "Revisão do projeto", será feita uma revisão de todos arquivos gerados durante o desenvolvimento do projeto e descrever quais correções devem ser feitas, ou se possível anotar possíveis melhorias. 
 
-|                          Tarefa                          | Data limite |      Autor(es)      | Data de revisão | Revisor |
-| :------------------------------------------------------: | :---------: | :-----------------: | :-------------: | :-----: |
-|     Planejamento da Avaliação do Protótipo de Papel      |    17/08    |    Tiago e Paulo    |      17/08      | Nicolas |
-| Relato dos resultados da avaliação do Protótipo de Papel |    17/08    | Nicolas e Gabrielly |      17/08      |  Tiago  |
-|                    Revisão do projeto                    |    17/08    |       Renann        |      17/08      |  Tiago  |
+|                                       Tarefa                                        | Data limite |      Autor(es)      | Data de revisão | Revisor |
+| :---------------------------------------------------------------------------------: | :---------: | :-----------------: | :-------------: | :-----: |
+|              Relato dos resultados da avaliação do Análise de tarefas               |    17/08    |    Tiago e Paulo    |      17/08      |  Paulo  |
+|                  Relato dos resultados da avaliação do Storyboard                   |    17/08    |  Nicolas e Renann   |      17/08      |  Tiago  |
+|             Planejamento da Avaliação do Protótipo de baixa fidelidade              |    17/08    |    Tiago e Paulo    |      17/08      | Nicolas |
+| Planejamento do relato dos resultados da avaliação do Protótipo de baixa fidelidade |    17/08    | Nicolas e Gabrielly |      17/08      |  Tiago  |
+|                                 Revisão do projeto                                  |    17/08    |       Renann        |      17/08      |  Tiago  |
 
 <figcaption align='center'>
    <b>Tabela 5: Cronograma de tarefas da Apresentação 5.</b><br>
@@ -151,7 +153,7 @@ Na tarefa de "Verificação dos artefatos", todos os integrantes farão uma revi
 
 Nessa etapa o foco é a elaboração de um protótipo de alta fidelidade e planejar possíveis melhorias para a entrega do projeto. A seguir a *tabela 7* apresenta um cronograma para entrega dessas tarefas.
 
-Na tarefa de "Relato dos resultados do Protótipo de Papel" será apresentado, quais sugestões e melhorias o protótipo de papel conseguiu reunir, registrar todas as sugestões importantes e avaliar quais seriam as mais interessantes de serem implementadas no protótipo de de alta fidelidade.
+Na tarefa de "Relato dos resultados do Protótipo de baixa fidelidade" será apresentado, quais sugestões e melhorias o protótipo de baixa fidelidade conseguiu reunir, registrar todas as sugestões importantes e avaliar quais seriam as mais interessantes de serem implementadas no protótipo de de alta fidelidade.
 
 Na tarefa de "Planejamento da Avaliação do protótipo de alta fidelidade", será criado uma arquivo descrevendo o que deverá ser esperado que o protótipo de alta fidelidade possua, poderá ser descrito também qual metodolgia será utilizada para avaliação e como os resultados irão ser apresentados e utilizados.
 
@@ -159,7 +161,7 @@ Na tarefa de "Relato dos resultados da avaliação do protótipo de alta fidelid
 
 |                               Tarefa                               | Data limite |    Autor(es)     | Data de revisão | Revisor |
 | :----------------------------------------------------------------: | :---------: | :--------------: | :-------------: | :-----: |
-|            Relato dos resultados do Protótipo de Papel             |    05/09    |    Gabrielly     |      05/09      | Renann  |
+|       Relato dos resultados do Protótipo de baixa fidelidade       |    05/09    |    Gabrielly     |      05/09      | Renann  |
 |     Planejamento da Avaliação do protótipo de alta fidelidade      |    05/09    | Renann e Nicolas |      05/09      |  Tiago  |
 | Relato dos resultados da avaliação do protótipo de alta fidelidade |    05/09    |  Tiago e Paulo   |      05/09      | Renann  |
 
