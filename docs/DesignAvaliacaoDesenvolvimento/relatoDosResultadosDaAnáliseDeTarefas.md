@@ -3,7 +3,7 @@ title: Planejamento da Avaliação - Relato dos Resultados da Análise de Tarefa
 parent: Nível 1
 grand_parent: Design, Avaliação e Desenvolvimento
 has_children: false
-nav_order: 1
+nav_order: 3
 ---
 
 # Relato dos Resultados da Análise de Tarefas
@@ -34,8 +34,8 @@ nav_order: 1
 ## 3. Sumário dos dados coletados
 
 <p align = "justify"> As entrevistas realizadas pelo grupo podem ser acessadas pelo guia lateral da página, ou pelos links abaixo. </p>
-<p align = "justify"> - Entrevista com a Bianca, disponivel no google drive - Link: https://drive.google.com/file/d/1xNEgRgig3RiYr_Ufm7CmYhNFSr_eqbnB/view?usp=sharing </p>
-<p align = "justify"> - Entrevista com a Mirella, disponivel no google drive - Link: https://drive.google.com/file/d/15ZPr75STAOLFhERj8Z19gaqBQ6jaKVTz/view?usp=sharing </p>
+<p align = "justify"> - Entrevista com a Bianca, disponivel no google drive - Link: https://drive.google.com/file/d/1_o3sawIObRfDBu7wQbp4pjTxtCpn2hiN/view?usp=sharing </p>
+<p align = "justify"> - Entrevista com a Mirella, disponivel no google drive - Link: https://drive.google.com/file/d/1VgkkMnWAT0tcLnkT3amaUwxM9shPwL88/view?usp=sharing </p>
 
 
 ## 4. Relato dos resultados
@@ -142,3 +142,4 @@ Livro: BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora
 | Data  | Versão |      Descrição       |                     Autor                     |
 | :---: | :----: | :------------------: | :-------------------------------------------: |
 | 16/08 |   v0   |  Criação da página   | [Nicolas](https://github.com/Nicolas-Roberto) |
+| 17/08 |   v0.1   | Revisão   | [Paulo](https://github.com/paulomacieltorresfilho) |
