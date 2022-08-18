@@ -14,11 +14,11 @@ Este documento tem o objetivo de registrar as entrevistas feitas sobre a avalia�
 
 ## 2. Metodologia 
 
- Para realizar a avaliação utilizamos a metodologia de inspeção por ser possível de realizar sem ter contato com moradores reais da cidade. Para isso, entrevistaremos os usuários como se fossem os moradorees da cidade.
+ Para realizar a avaliação utilizamos a metodologia de inspeção por ser possível de realizar sem ter contato com moradores reais da cidade. Para isso, entrevistamos estudantes da Universidade de Brasília.
 
 ## 3. Entrevistas
 
-### 3.1 Entrevista 1 - Bia
+### 3.1 Entrevista 1 - Bianca Magalhães
 
 <table border="1">
     <tr>
@@ -59,7 +59,7 @@ Este documento tem o objetivo de registrar as entrevistas feitas sobre a avalia�
 
 </table>
 
-### 3.2 Entrevista 2 - Mirella
+### 3.2 Entrevista 2 - Mirella Cavallini
 
 <table border="1">
     <tr>
@@ -113,3 +113,4 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, 
 | Data  | Versão |           Descrição            |                       Autor                        |
 | :---: | :----: | :----------------------------: | :------------------------------------------------: |
 | 16/08 |   v0   |       Criação da página        | [Gabrielly](https://github.com/GabriellyAssuncao) |
+| 17/08 |   v0.1   |       Revisão        | [Paulo](https://github.com/paulomacieltorresfilho) |
