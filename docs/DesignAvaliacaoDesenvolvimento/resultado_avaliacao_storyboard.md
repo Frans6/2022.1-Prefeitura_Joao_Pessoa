@@ -14,7 +14,7 @@ Este documento tem o objetivo de registrar as entrevistas feitas sobre a avalia�
 
 ## 2. Metodologia 
 
- Para realizar a avaliação utilizamos a metodologia de inspeção por ser possível de realizar sem ter contato com moradores reais da cidade. Para isso, entrevistamos estudantes da Universidade de Brasília.
+ Para realizar a avaliação utilizamos a metodologia de inspeção por ser possível de realizar sem ter contato com moradores reais da cidade. Para isso, entrevistamos estudantes da Universidade de Brasília que utilizaram o site brevemente antes das entrevistas.
 
 ## 3. Entrevistas
 
