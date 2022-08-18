@@ -18,18 +18,18 @@ encontrados e sugestões de correções.
 Segundo Simone, no relato dos resultados, os avaliadores devem comunicar aos interessados:
 - Os objetivos da avaliação;
 - Uma breve descrição do método de prototipação em papel;
-- O número e o perfi l de avaliadores e dos participantes;
+- O número e o perfil de avaliadores e dos participantes;
 - As tarefas executadas pelos participantes;
 - Uma lista de problemas de usabilidade corrigidos durante os ciclos de avaliação e reprojeto, indicando:
   - Local onde ocorreu;
   - Fatores de usabilidade prejudicados;
-  - Descrição e justifi cativa do problema;
+  - Descrição e justificativa do problema;
   - Correção realizada no protótipo em papel;
   - Indicação se o problema voltou a ocorrer depois da correção;
 - Uma lista dos problemas de usabilidade ainda não corrigidos, indicando:
   - Local onde ocorreu;
   - Fatores de usabilidade prejudicados;
-  - Descrição e justifi cativa do problema;
+  - Descrição e justificativa do problema;
   - Prioridade para correção;
   - Sugestões de correção;
 - Indicações de partes do sistema que podem ser mais bem elaboradas.
