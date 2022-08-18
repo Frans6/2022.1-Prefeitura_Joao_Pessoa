@@ -20,7 +20,7 @@ nav_order: 3
 
 ### 2.1 Participantes
 
-<p align = "justify"> Foram realizadas entrevistas com as duas estudantes voluntárias da UnB que nunca usaram o site. Ambas utilizaram o site brevemente antes das entevistas. Elas são: </p>
+<p align = "justify"> Foram realizadas entrevistas com as duas estudantes voluntárias da UnB que utilizaram o site brevemente para realizarem as entrevistas. Elas são: </p>
 
 <p align ="justify"> - Mirella, 20 anos e universitária; </p>
 <p align ="justify"> - Bianca,  20 anos e universitária;</p>
