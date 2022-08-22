@@ -95,8 +95,7 @@ A inspeção foi feita através do método de checklist com base nas referência
 
 <p align = "justify"> Realizando a verificação pode-se perceber que o documento referênte ao storyboard atende os requistitos programados no checklist, não sendo necessário realizar nenhuma modificação.</p>
 
-| Porcentagem de sucesso: | 100%|
-| ----------- |-----|
+Porcentagem de sucesso: 100%
 
 ## Bibliografia
 
