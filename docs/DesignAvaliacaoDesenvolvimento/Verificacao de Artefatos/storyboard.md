@@ -1,5 +1,5 @@
 ---
-title: Verificação de Artefatos - Storyboards
+title: Storyboard
 parent:  Verificação de Artefatos
 grand_parent: Design, Avaliação e Desenvolvimento
 has_children: false
