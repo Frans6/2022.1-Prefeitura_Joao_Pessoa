@@ -27,21 +27,23 @@ Os stooryboard foram desenhados à mão.</p>
 &emsp;&emsp; 
 Os storyboards apresentados possuem como foco a verificação da facilidade do usuário ao realizar as tarefas proposta.</p>
 
+<p align = "justify">
 &emsp;&emsp; 
 No primeiro storyboard percebemos a dificuldade do usuário em realizar a tarefa proposta, mostrando que o site da prefeitura de João Pessoa não está de acordo com as metas de usabilidade.</p>
 
+<p align = "justify">
 &emsp;&emsp; 
 No segundo storyboard é abordado como é feito o acesso ao site para ler todas as notícias publicadas, mesmo que seja uma tarefa simples, a equipe crê que possam ter etapas que podem ser cortadas para tornar o acesso mais direto e com menos intereções.</p>
 
 ## 3. Resultados
 
-<center> <img  src="../assets/storyboards/storyboard.jpeg" class="center-align" width="500" height = "300"> </center>
+<center> <img src="../../assets/storyboards/storyboard.jpeg" class="center-align" width="500" height = "300"> </center>
 <figcaption align='center'>
   <h5>  <b>Storyboard 1: tarefa - acessar informações sobre a pandemia do covid-19 </b><br> </h5>
   <small>Fonte: autor</small>
 </figcaption>
 
-<center> <img  src="../assets/storyboards/storyboard2.jpg" width="500" height = "700"> </center>
+<center><img  src="../../assets/storyboards/storyboard2.jpg" width="500" height = "700"> </center>
 <figcaption align='center'>
   <h5>  <b>Storyboard 2: tarefa - acessar as principais notícias </b><br> </h5>
   <small>Fonte: autor</small>
