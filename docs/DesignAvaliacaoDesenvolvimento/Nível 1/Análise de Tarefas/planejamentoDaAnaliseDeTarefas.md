@@ -1,7 +1,7 @@
 ---
 title: Planejamento da Avaliação - Análise de Tarefas
-parent: Nível 1
-grand_parent: Design, Avaliação e Desenvolvimento
+parent: Análise de Terefas
+grand_parent: Nível 1
 has_children: false
 nav_order: 1
 ---

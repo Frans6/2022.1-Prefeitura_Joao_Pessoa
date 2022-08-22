@@ -14,18 +14,16 @@ nav_order: 5
 
 ## 2. Metodologia
 
-A inspeção foi feita através do método de checklist com base nas referências usadas para criar este artefato e assim poder realizar as melhorias no documento.
+<p align = "justify">
+A inspeção foi feita através do método de checklist com base nas referências usadas para criar este artefato e assim poder realizar as melhorias no documento.</p>
 
 ### Legenda 
-
-<div align="center">
 
 | Símbolo   | Descrição              |
 | --------- | ---------------------- |
 | <center>✔ | <center>realizado      |
 | <center>✖ | <center> não realizado |
 
-</div>
 
 ## checklist
 
@@ -91,11 +89,11 @@ A inspeção foi feita através do método de checklist com base nas referência
   <h6><b>Tabela 1: Checklist da Verificação do Storyboard</b><br></h6>
     <small>Fonte: Elaboração Própria</small>
 </figcaption>
-</div>
+
 
 ## 6. Resultados
 
-<p align = "justify"> Realizando a verificação pode-se perceber que o documento referênte ao storyboard atende os requistitos programados no checklist, não sendo necessário realizar nenhuma modificação. </p>
+<p align = "justify"> Realizando a verificação pode-se perceber que o documento referênte ao storyboard atende os requistitos programados no checklist, não sendo necessário realizar nenhuma modificação.</p>
 
 | Porcentagem de sucesso: | 100%|
 | ----------- |-----|
