@@ -29,21 +29,64 @@ A inspeção foi feita através do método de checklist com base nas referência
 
 ## checklist
 
-<div align = "center">
-
-| Número | <center>Questão</center>                                                                            | Resposta  |
-| ------ | ---------------------------------------------------------------------------------- | --------- |
-| 1      | <center>Respeita as Normas da ABNT e ortografia?                                   | <center>✔  |
-| 2      | <center>Existe padronização?                                                       | <center>✔ |
-| 3      | <center>Há versionamento?                                                          | <center>✔ |
-| 4      | <center>Há uma ordem lógica entre as estruturas?                                   | <center>✔ |
-| 5      | <center>Há revisores no documento?                                                              | <center>✔ |
-| 6      | <center>Tema bem desenvolvido? | <center>✔ |
-| 7      | <center>Há referências bibliográficas?                                             | <center>✔ |
-| 8      | <center>O objetivo do tema está bem definido?                                      | <center>✔ |
-| 9      | <center>Há um bom fechamento do assunto, uma conclusão?                            | <center>✔ |
-| 10     | <center>Documento formatado?                                                     | <center>✔  |
-
+<table border="1">
+    <tr>
+        <td>Número</td>
+        <td>Pergunta</td>
+        <td>Resposta</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Respeita as Normas da ABNT de ortografia?</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Existe padronização?</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Há versionamento?  </td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Há uma ordem lógica entre as estruturas?</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Há revisores no documento?</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>6</td>
+       <td>Tema bem desenvolvido?</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>7</td>
+       <td>Há referências bibliográficas? </td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>8</td>
+       <td>O objetivo do tema está bem definido?             </td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>9</td>
+       <td>Há um bom fechamento do assunto, uma conclusão?   </td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>10</td>
+       <td>Documento formatado? </td>
+        <td>✔</td>
+    </tr>
+</table>
+                                                        
 <figcaption align='center'>
   <h6><b>Tabela 1: Checklist da Verificação do Storyboard</b><br></h6>
     <small>Fonte: Elaboração Própria</small>
