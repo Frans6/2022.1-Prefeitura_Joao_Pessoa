@@ -1,15 +1,16 @@
 ---
 title: Planejamento da Avaliação - Análise de Tarefas
-parent:  Verificação de Artefatos
+parent:  Análise de Tarefas
+grand_parent: Verificação de Artefatos
 has_children: false
-nav_order: 4
+nav_order: 1
 ---
 
 # Verificação - Planejamento da Avaliação - Análise de Tarefas
 
 ## 1. Introdução
 
-<p align = "justify">Utilizando o método de inspeção, este documento tem por objetivo realizar a verificação do <a href="">Planejamento da Avaliação - Análise de Tarefas</a></p>
+<p align = "justify">Utilizando o método de inspeção, este documento tem por objetivo realizar a verificação do <a href="https://interacao-humano-computador.github.io/2022.1-Prefeitura_Joao_Pessoa/DesignAvaliacaoDesenvolvimento/N%C3%ADvel%201/planejamentoDaAnaliseDeTarefas.html">Planejamento da Avaliação - Análise de Tarefas</a></p>
 
 ## 2. Metodologia
 

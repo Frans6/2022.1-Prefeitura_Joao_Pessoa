@@ -1,15 +1,15 @@
 ---
-title: Storyboard
+title: Princípios Gerais do Projeto
 parent:  Verificação de Artefatos
 has_children: false
-nav_order: 6
+nav_order: 5
 ---
 
-# Verificação - Storyboard
+## Verificação - Princípios Gerais do Projeto
 
 ## 1. Introdução
 
-<p align = "justify">Utilizando o método de inspeção, este documento tem por objetivo realizar a verificação do <a href="https://interacao-humano-computador.github.io/2022.1-Prefeitura_Joao_Pessoa/DesignAvaliacaoDesenvolvimento/N%C3%ADvel%201/Storyboards.html">Storyboard.</a></p>
+<p align = "justify">Utilizando o método de inspeção, este documento tem por objetivo realizar a verificação do documento referente ao <a href="">Princípios Gerais do Projeto.</a></p>
 
 ## 2. Metodologia
 
@@ -24,7 +24,7 @@ A inspeção foi feita através do método de checklist com base nas referência
 | <center>✖ | <center> não realizado |
 
 
-## checklist
+## Checklist
 
 <table border="1">
     <tr>
@@ -34,65 +34,55 @@ A inspeção foi feita através do método de checklist com base nas referência
     </tr>
     <tr>
         <td>1</td>
-        <td>Respeita as Normas da ABNT de ortografia?</td>
+       <td>O artefato de princípios gerais apresenta uma introdução?</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Existe padronização?</td>
+       <td>É apresentado de onde foi retirado os princípios?</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Há versionamento?  </td>
+       <td>É apresentado quais princípios serão utilizados no projeto? </td>
         <td>✔</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Há uma ordem lógica entre as estruturas?</td>
+       <td>Contém informações bem explicadas e breves de cada princípio?</td>
         <td>✔</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Há revisores no documento?</td>
+       <td>É apresentado como os Princípios Gerais do Projeto serão utilizados no projeto?</td>
         <td>✔</td>
     </tr>
-    <tr>
+        <tr>
         <td>6</td>
-       <td>Tema bem desenvolvido?</td>
+       <td>Os tópicos foram explicados corretamente?</td>
         <td>✔</td>
-    </tr>
-    <tr>
+    </tr>  
+      <tr>
         <td>7</td>
-       <td>Há referências bibliográficas? </td>
+       <td>Possui todas as informações necessárias? É apresentado uma conclusão do artefato?</td>
         <td>✔</td>
-    </tr>
-    <tr>
+    </tr>   
+          <tr>
         <td>8</td>
-       <td>O objetivo do tema está bem definido?             </td>
+       <td>É apresentado uma conclusão do artefato?</td>
         <td>✔</td>
-    </tr>
-    <tr>
-        <td>9</td>
-       <td>Há um bom fechamento do assunto, uma conclusão?   </td>
-        <td>✔</td>
-    </tr>
-    <tr>
-        <td>10</td>
-       <td>Documento formatado? </td>
-        <td>✔</td>
-    </tr>
+    </tr>  
 </table>
                                                         
 <figcaption align='center'>
-  <h6><b>Tabela 1: Checklist da Verificação do Storyboard</b><br></h6>
+  <h6><b>Tabela 1: Checklist da Verificação do Princípios Gerais do Projeto</b><br></h6>
     <small>Fonte: Elaboração Própria</small>
 </figcaption>
 
 
 ## 6. Resultados
 
-<p align = "justify"> Realizando a verificação pode-se perceber que o documento referente ao storyboard atende os requistitos programados no checklist, não sendo necessário realizar nenhuma modificação.</p>
+<p align = "justify"> Realizando a verificação pode-se perceber que o documento referente ao Princípios Gerais do Projeto, atingiu todas as metas estabelecidas, mas isso não impede que uma análise futura possa apresentar novas melhorias</p>
 
 Porcentagem de sucesso: 100%
 
@@ -105,3 +95,4 @@ Livro: BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora
 | Data  | Versão |      Descrição       |                     Autor                     |
 | :---: | :----: | :------------------: | :-------------------------------------------: |
 | 17/08 |   v0   |  Criação da página   | [Gabrielly](https://github.com/GabriellyAssuncao) |
+| 22/08 |   v0.1 |  Adição de conteúdo  | [Renann](https://github.com/NyndoND) |
