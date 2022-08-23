@@ -1,7 +1,6 @@
 ---
 title: Storyboard
 parent:  Verificação de Artefatos
-grand_parent: Design, Avaliação e Desenvolvimento
 has_children: false
 nav_order: 5
 ---
@@ -93,7 +92,7 @@ A inspeção foi feita através do método de checklist com base nas referência
 
 ## 6. Resultados
 
-<p align = "justify"> Realizando a verificação pode-se perceber que o documento referênte ao storyboard atende os requistitos programados no checklist, não sendo necessário realizar nenhuma modificação.</p>
+<p align = "justify"> Realizando a verificação pode-se perceber que o documento referente ao storyboard atende os requistitos programados no checklist, não sendo necessário realizar nenhuma modificação.</p>
 
 Porcentagem de sucesso: 100%
 

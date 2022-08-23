@@ -1,8 +1,7 @@
 ---
 title: Verificação de Artefatos
-parent: Design, Avaliação e Desenvolvimento
 has_children: true
-nav_order: 6
+nav_order: 1
 ---
 
 # Verificação de Artefatos
