@@ -45,6 +45,10 @@ Para verificar se as metas foram alcançadas, foi levantado as seguintes questõ
 
 * Memorização: O site requer o mínimo da memória do usuário? E caso seja necessário utilizá-la, o site garante o uso de figuras, ou características únicas que facilita o reconhecimento da funcionalidade?
 
+## Conclusão
+
+<p align="justify">
+Dessa forma, obervando as matas de usabilidade e realizando o comparativo com o site da prefeitura de João Pessoa, entendemos que: eficácia; eficiência; capacidade de memorização; e aprendizagem são as metas que possuem alta prioridade no sistema, pois são fundamentais para uma boa experiência do usário. Vale também ressalatar que segurança e utilidade são metas já alcançadas pelo sistema.</p>
 
 ## Bibliografia
 
