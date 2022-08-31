@@ -1,9 +1,9 @@
 ---
-title: Planejamento do relato dos resultados da avaliação do Protótipo de Papel
+title: Planejamento da Avaliação do Protótipo de Papel
 parent: Nível 2
 grand_parent: Design, Avaliação e Desenvolvimento
 has_children: false
-nav_order: 2
+nav_order: 1
 ---
 
 # Planejamento da avaliação de baixa fidelidade
@@ -12,12 +12,10 @@ nav_order: 2
 
 A elaboração de protótipos durante o desenvolvimento do projeto é importante para analisar e veirifcar a forma que a equipe pretende seguir com o projeto, diminuindo assim a quantidade de possiveis erros relacionados ao desing do projeto. Visando a correção de erros é necessario que após a elaboração de cada protótipo, seja feito uma avaliação e validação do protótipo elaborado juntos aos usuários.
 
-</br>
 
 ## Objetivo 
 O objetivo principal desse artefato é auxiliar o entrevistador durante a avaliação do protótipo de baixa fidelidade, deixando claro como documentar e o que fazer durante a avaliação. 
 
-</br>
 
 ## Metodologia 
 

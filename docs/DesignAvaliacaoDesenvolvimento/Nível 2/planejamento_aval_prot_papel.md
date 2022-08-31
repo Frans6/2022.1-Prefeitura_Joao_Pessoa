@@ -1,9 +1,9 @@
 ---
-title: Planejamento do relato dos resultados da avaliação do Protótipo de Papel
+title: Planejamento do relato dos esultados da avaliação do Protótipo de Papel
 parent: Nível 2
 grand_parent: Design, Avaliação e Desenvolvimento
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 # Planejamento do relato dos resultados da avaliação do Protótipo de Papel
