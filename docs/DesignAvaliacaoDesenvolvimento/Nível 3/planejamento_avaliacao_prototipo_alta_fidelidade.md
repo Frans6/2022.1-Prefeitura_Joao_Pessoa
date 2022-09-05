@@ -91,6 +91,21 @@ Tarefa 1: Acessar as informações sobre os casos de COVID-19 na cidade.
 
 <p align="justify"><a href="https://github.com/Interacao-Humano-Computador/2022.1-Prefeitura_Joao_Pessoa/blob/main/docs/assets/Termo_de_Consentimento.pdf">Termo de Consentimento</a> utilizado na realização da entrevista.</p>
 
+# 7. Relato dos Resultados
+
+<p align = "justify">Nessa fase será verificado se no protótipo as metas de usabilidade foram atingidas  </p>
+Os avaliadores devem apresentar:
+
+- <p align = "justify">Os objetivos da avaliação.</p>
+
+- <p align = "justify">Uma breve descrição da protótipo de alta fidelidade.</p>
+
+- <p align = "justify">O número de avaliadores e participantes.</p>
+
+- <p align = "justify">As tarefas executadas pelos participantes.</p>
+
+- <p align = "justify">Uma conclusão apresentando as metas atingidas e as não atingidas.</p>
+
 
 ## Bibliografia
 
@@ -101,3 +116,4 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, 
 | Data  | Versão |     Descrição     |                    Autor                     |
 |:-----:|:------:|:-----------------:|:--------------------------------------------:|
 | 31/08 |   v0   | Criação da página | [Gabrielly Assunção](https://github.com/GabriellyAssuncao) |
+| 05/09 |   v1   | Adição Relato dos Resultados | [Nicolas Roberto](https://github.com/Nicolas-Roberto) |
