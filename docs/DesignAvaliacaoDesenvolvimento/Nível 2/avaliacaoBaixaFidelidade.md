@@ -33,20 +33,20 @@ Todas as entrevistas foram realizadas por Paulo Maciel, em diferentes ambientes 
 
 ### Teste Piloto - Maria Clara de Melo
 
+O teste piloto foi realizado por volta das 16 horas do dia 02/09 e a entrevistada foi Maria Clara de Melo. Entrevista realizada no escritório de sua casa temporária, no Lago Norte. [Entrevista](https://youtu.be/4S86-GiVP2M)
 
-O teste piloto foi realizado por volta das 16 horas do dia 02/09 e a entrevistada foi Maria Clara de Melo. Entrevista realizada no escritório de sua casa temporária, no Lago Norte. [Entrevista](../../assets/entrevistas/Prot%C3%B3tipo%20de%20Papel%20-%20Teste%20Piloto.mp4)
 
 ### Entrevista - Lília de Melo Faria
 
-A primeira entrevista foi realizada por volta das 16:30 no mesmo dia e local do teste piloto. [Entrevista](../../assets/entrevistas/baixa-fidelidade/)
+A primeira entrevista foi realizada por volta das 16:30 no mesmo dia e local do teste piloto. [Entrevista](https://youtu.be/K7OzXNajEuI)
 
 ### Entrevista - Carmem Torres
 
-A segunda entrevista foi realizada por volta das 19 horas do dia 05/09 em sua casa, no Guará II. [Entrevista](../../assets/entrevistas/Prototipo%20de%20Papel%20-%20Carmem%20Torres.mp4)
+A segunda entrevista foi realizada por volta das 19 horas do dia 05/09 em sua casa, no Guará II. [Entrevista](https://youtu.be/-XdQlxtNb-8)
 
 ### Entrevista - José Roberto
 
-A última entrevista foi realizada por volta das 19:30 no mesmo dia e local da entrevista de Carmem Torres. [Entrevista]()
+A última entrevista foi realizada por volta das 19:30 no mesmo dia e local da entrevista de Carmem Torres. [Entrevista](https://youtu.be/Oa4TTamBAOs)
 
 ## Conclusão
 
@@ -55,4 +55,5 @@ Todas as entrevistas foram realizadas com sucesso e sem dificuldades, cumprindo 
 
 | Data  | Versão |     Descrição     |                    Autor                     |
 |:-----:|:------:|:-----------------:|:--------------------------------------------:|
-| 06/09 |   v0   | Criação da página | [Paulo](https://github.com/paulomacieltorresfilho) |
+| 05/09 |   v0   | Criação da página | [Paulo](https://github.com/paulomacieltorresfilho) |
+| 05/09 |   v0.1   | Adição dos links dos vídeos | [Paulo](https://github.com/paulomacieltorresfilho) |
