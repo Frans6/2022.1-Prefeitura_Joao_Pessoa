@@ -47,7 +47,7 @@ nav_order: 1
     <tr>
         <td>1</td>
         <td>Qual o seu nome?</td>
-        <td>Pergunta discursiva</td></td>
+        <td>Pergunta discursiva</td>
     </tr>
     <tr>
         <td>2</td>

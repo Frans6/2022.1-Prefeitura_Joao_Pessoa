@@ -1,5 +1,5 @@
 ---
-title: Planejamento da Avaliação - Relato dos Resultados da Análise de Tarefas
+title: Relato dos Resultados da Avaliação de Análise de Tarefas
 parent: Nível 1
 grand_parent: Design, Avaliação e Desenvolvimento
 has_children: false
