@@ -69,7 +69,7 @@ De acordo com Simone Barbosa no livro interação Humano-computador[¹], foram d
 
 ## 5.2 Tarefas à serem realizadas
 
-<p align="justify">Para realizar a entrevista iremos utilizar a seguinte tarefas apresentada no protótipo e definida no documento <a href="https://interacao-humano-computador.github.io/2022.1-Prefeitura_Joao_Pessoa/AnaliseDeRequisitos/analiseDasTarefas.html">Análise de Terefas</a></p>
+<p align="justify">Para realizar a entrevista iremos utilizar a seguinte tarefas apresentada no protótipo e definida no documento <a href="https://interacao-humano-computador.github.io/2022.1-Prefeitura_Joao_Pessoa/AnaliseDeRequisitos/analiseDasTarefas.html">Análise de Tarefas</a></p>
 
 Tarefa 1: Acessar as informações sobre os casos de COVID-19 na cidade.
 
@@ -79,7 +79,7 @@ Tarefa 1: Acessar as informações sobre os casos de COVID-19 na cidade.
 
 1. Apresentar para o usuário e obter a assinatura do termo de consentimento.
 
-2. Apresentar a terefa a ser executada.
+2. Apresentar a tarefa a ser executada.
 
 3. Pedir para que ele explique em voz alta as ações que tomar para realizar esta tarefa
 
