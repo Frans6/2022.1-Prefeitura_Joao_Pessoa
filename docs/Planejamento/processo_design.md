@@ -65,7 +65,7 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 Humano-Computador e Experiência do usuário. Autopublicação.
 
 ## Versionamento
-s
+
 | Data  | Versão |      Descrição       |                           Autor                           |
 | :---: | :----: | :------------------: | :-------------------------------------------------------: |
 | 08/07 |   v0   |  Criação da página   |       [Tiago Buson](https://github.com/TiagoBuson)        |
