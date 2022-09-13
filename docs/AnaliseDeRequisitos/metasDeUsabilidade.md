@@ -9,7 +9,7 @@ nav_order: 7
 
 
 ## 1. Introdução
-Esse documento visa demonstrar as metas de usabilidade, uma lista de fatores ligados diretamente ao uso de sistemas segundo o Jakob Nielsen (1993), as metas de usabilidades é um meio de visualizar se as características do produto concordam com 6 usabilidades essas metas ajudam a resolver problemas com a produtividade do usuário durante a utilização do sistema e motivações desse usuário para um aprendizado mais eficaz.
+Esse documento visa demonstrar as metas de usabilidade, uma lista de fatores ligados diretamente ao uso de sistemas segundo o Jakob Nielsen (1993). As metas de usabilidade são meios de validar se as características do produto fazem com que ele seja agradável de se utilizar e prático. Essas metas ajudam a resolver problemas como a produtividade do usuário durante a utilização do sistema e as motivações desse usuário para um aprendizado mais eficaz.
 
 ## 2. Metas
 ### 2.1 Eficácia
@@ -61,3 +61,4 @@ PREECE, Jennifer; ROGERS, Yvone; SHARP, Helen. Design de Interação: Além da I
 | Data  | Versão |     Descrição     |                     Autor                     |
 | :---: | :----: | :---------------: | :-------------------------------------------: |
 | 29/07 |   v0   | Criação da página | [Nicolas](https://github.com/Nicolas-Roberto) |
+| 12/09 |   v0.1   | Revisão do texto | [Paulo](https://github.com/paulomacieltorresfilho) |
