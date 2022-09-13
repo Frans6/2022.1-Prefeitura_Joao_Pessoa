@@ -36,9 +36,7 @@ Tarefas que foram solicitadas durante as entrevistas:
   </tr>
   <tr>
     <td>Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?</td>
-    <td>Sim</td>
-    <td>Cerca de 30 segundos para realizar todas as tarefas.</td>
-    <td>Nenhum erro.</td>
+    <td>Sim | Cerca de 30 segundos para realizar todas as tarefas. | Nenhum erro.</td>
   </tr>
   <tr>
     <td>Que parte da interface o desmotiva a explorar novas funcionalidades?</td>
@@ -59,9 +57,7 @@ Tarefas que foram solicitadas durante as entrevistas:
   </tr>
   <tr>
     <td>Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?</td>
-    <td>Sim</td>
-    <td>Cerca de 40 segundos para realizar todas as tarefas.</td>
-    <td>Nenhum erro.</td>
+    <td>Sim | Cerca de 40 segundos para realizar todas as tarefas. | Nenhum erro.</td>
   </tr>
   <tr>
     <td>Que parte da interface o desmotiva a explorar novas funcionalidades?</td>
@@ -83,9 +79,7 @@ Tarefas que foram solicitadas durante as entrevistas:
   </tr>
   <tr>
     <td>Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?</td>
-    <td>Sim</td>
-    <td>Cerca de 40 segundos para realizar todas as tarefas.</td>
-    <td>Nenhum erro.</td>
+    <td>Sim | Cerca de 40 segundos para realizar todas as tarefas. | Nenhum erro.</td>
   </tr>
   <tr>
     <td>Que parte da interface o desmotiva a explorar novas funcionalidades?</td>
@@ -109,3 +103,4 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, 
 | Data  | Versão |     Descrição     |                       Autor                        |
 | :---: | :----: | :---------------: | :------------------------------------------------: |
 | 12/09 |   v0   | Criação da página | [Paulo](https://github.com/paulomacieltorresfilho) |
+| 12/09 |   v0.1   | Edição da tabela | [Paulo](https://github.com/paulomacieltorresfilho) |
