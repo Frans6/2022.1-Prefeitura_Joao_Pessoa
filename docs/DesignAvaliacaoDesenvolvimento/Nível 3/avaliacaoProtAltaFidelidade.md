@@ -38,7 +38,7 @@ Foram realizadas 3 entrevistas (uma sendo teste piloto) pelo integrante Paulo Ma
 
 ### Entrevista 1 - Teste Piloto
 
-[Link para o teste piloto.](https://youtu.be/)
+[Link para o teste piloto.](https://youtu.be/tFJ5IEf0ojg)
 
 ### Entrevista 2
 
@@ -61,4 +61,5 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, 
 | 12/09 |   v0   | Criação da página | [Paulo](https://github.com/paulomacieltorresfilho) |
 | 12/09 |   v0.1   | Adição do link da entrevista 3 | [Paulo](https://github.com/paulomacieltorresfilho) |
 | 12/09 |   v0.2   | Adição do link da entrevista 2 | [Paulo](https://github.com/paulomacieltorresfilho) |
+| 12/09 |   v0.3   | Adição do link da entrevista 3 | [Paulo](https://github.com/paulomacieltorresfilho) |
 
