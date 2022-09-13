@@ -17,6 +17,12 @@ no processo de produção e ¹comprometer a qualidade do produto final.
 
 Este artefato tem como objetivo documentar as entrevistas feitas para a avaliação do protótipo de alta fidelidade.
 
+
+## Protótipo de Alta Fidelidade
+
+A prototipagem de alta-fidelidade utiliza materiais que você espera que estejam no produto final e realiza um protótipo que se parece muito mais com algo acabado. Por exemplo, o protótipo de um software desenvolvido em Visual Basic apresenta maior fidelidade do que o de uma maquete de papel.¹
+
+
 ## Tarefas Avaliadas
 
 Para esta avaliação, definimos quais as tarefas que deveriam ser executadas pelos entrevistados. As tarefas foram as mesmas ilustradas nos storyboards, documentadas na análise de tarefas e também avaliadas no protótipo de baixa fidelidade, contudo, se o entrevistado tiver tempo hábil, o entrevistador poderá pedir para realizar uma tarefa adicional
