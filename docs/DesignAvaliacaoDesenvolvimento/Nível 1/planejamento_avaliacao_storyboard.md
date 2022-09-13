@@ -79,7 +79,7 @@ Para realizar a avaliação utilizamos  a metodologia de inspeção por ser poss
 &emsp;&emsp;O documento relatando de resultados da avaliação deve conter os objetivos e o escopo da avaliação e a descrição das tarefas analisadas.
 </p>
 
-## 6. Conclusão
+## 5. Conclusão
 
 <p align = "justify">
 &emsp;&emsp;A partir do estudo a respeito dos benefícios de se construir uma estrutura de planejamento para essa importante fase do projeto, acreditamos que poderemos potencializar os resultados obtidos nas entrevistas. Por serem perguntas direcionadas ao objetivo pretendedido, acreditamos também que os dados serão mais completos e coeretentes.
