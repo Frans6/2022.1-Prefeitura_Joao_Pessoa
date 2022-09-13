@@ -16,7 +16,7 @@ nav_order: 3
 
 ## 2. Método selecionado
 
-<p align = "justify"> O grupo realizou a escolha de utilizar como método para esta avaliação a entrevista, pertencente aos métodos de investigação. Em vista disso, dentre os discentes que estavam responsáveis pelo tema da Análise de Tarefas, decidiu-se que um aluno realizaria as estrevistas, no caso deste tema, o integrante Paulo Torres.
+<p align = "justify"> O grupo realizou a escolha de utilizar como método para esta avaliação a entrevista, pertencente aos métodos de investigação. Em vista disso, dentre os discentes que estavam responsáveis pelo tema da Análise de Tarefas, decidiu-se que um aluno realizaria as estrevistas, no caso deste tema, o integrante Paulo Torres.  </p>
 
 ### 2.1 Participantes
 
@@ -51,7 +51,7 @@ nav_order: 3
     <tr>
         <td>1</td>
         <td>Qual o seu nome?</td>
-        <td>Pergunta discursiva</td></td>
+        <td>Pergunta discursiva</td>
     </tr>
     <tr>
         <td>2</td>
@@ -139,7 +139,7 @@ Livro: BARBOSA, Simone; DINIZ, Bruno. **Interação Humano-Computador**, Editora
 
 ## Versionamento
  
-| Data  | Versão |      Descrição       |                     Autor                     |
-| :---: | :----: | :------------------: | :-------------------------------------------: |
-| 16/08 |   v0   |  Criação da página   | [Nicolas](https://github.com/Nicolas-Roberto) |
-| 17/08 |   v0.1   | Revisão   | [Paulo](https://github.com/paulomacieltorresfilho) |
+| Data  | Versão |     Descrição     |                       Autor                        |
+| :---: | :----: | :---------------: | :------------------------------------------------: |
+| 16/08 |   v0   | Criação da página |   [Nicolas](https://github.com/Nicolas-Roberto)    |
+| 17/08 |  v0.1  |      Revisão      | [Paulo](https://github.com/paulomacieltorresfilho) |

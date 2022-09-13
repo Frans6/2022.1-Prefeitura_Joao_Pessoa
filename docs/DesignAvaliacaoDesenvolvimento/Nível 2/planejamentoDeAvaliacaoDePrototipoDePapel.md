@@ -33,9 +33,9 @@ Tarefas que serão executadas durante a avaliação:
 
 ### **Definição dos participantes e recrutamento**
 
-É importante ressaltar que os participantes escolhidos para participarem da avaliação devem fazer parte do "Perfil de usuário" que se encontra [neste documento](../AnaliseDeRequisitos/perfilDeUsuario.md).
+É importante ressaltar que os participantes escolhidos para participarem da avaliação devem fazer parte do "Perfil de usuário" que se encontra [neste documento](../../AnaliseDeRequisitos/perfilDeUsuario.md).
 
-Cabe ao responsável pela entrevista buscar possíveis participantes aptos a participarem da entrevista, entrar em contato, explicar o objetivo da avaliação e todos os demais detalhes envolvidos. Caso apresente interesse em participar, combina-se uma data e horário em que as duas parte estejam de acordo. No dia e horário combinado é importante não esquecer de apresentar o [termo de consentimento](../AnaliseDeRequisitos/aspectosEticos.md)
+Cabe ao responsável pela entrevista buscar possíveis participantes aptos a participarem da entrevista, entrar em contato, explicar o objetivo da avaliação e todos os demais detalhes envolvidos. Caso apresente interesse em participar, combina-se uma data e horário em que as duas parte estejam de acordo. No dia e horário combinado é importante não esquecer de apresentar o [termo de consentimento](../../AnaliseDeRequisitos/aspectosEticos.md)
 
 ### **Execução do teste piloto**
 
@@ -44,7 +44,7 @@ Antes de iniciar as outras entrevistas, o entrevistador irá ler suas anotaçõe
 
 ### **Execução das avaliações**
 
-No dia e horário marcado, se encontre com o participante em algum lugar de fácil acesso, de preferência sem muito ruído ou distrações externas, cumprimente o participante e se apresente como entrevistador. Antes da avaliação iniciar apresente novamente o [termo de consentimento](../AnaliseDeRequisitos/aspectosEticos.md).
+No dia e horário marcado, se encontre com o participante em algum lugar de fácil acesso, de preferência sem muito ruído ou distrações externas, cumprimente o participante e se apresente como entrevistador. Antes da avaliação iniciar apresente novamente o [termo de consentimento](../../AnaliseDeRequisitos/aspectosEticos.md).
 
 Deixar claro quais tarefas o participante deverá executar e interferir o mínimo possível durante a avaliação.
 

@@ -46,13 +46,13 @@ Usando o método de Inspeção, que consiste em verificar se o modelo do artefat
         <td>Gabrielly Assunção</td>
     </tr>
    <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2022.1-Prefeitura_Joao_Pessoa/DesignAvaliacaoDesenvolvimento/N%C3%ADvel%201/resultadosAvaliacaoAnaliseTarefas.html">Relato dos Resultados - Análise de Tarefas</a></td>
+        <td><a href="https://interacao-humano-computador.github.io/2022.1-Prefeitura_Joao_Pessoa/DesignAvaliacaoDesenvolvimento/Nível%201/resultadosAvaliacaoAnaliseTarefas.html">Relato dos Resultados - Análise de Tarefas</a></td>
         <td>20/08</td>
         <td>Nicolas Roberto</td>
         <td>Gabrielly Assunção</td>
     </tr>
    <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2022.1-Prefeitura_Joao_Pessoa/DesignAvaliacaoDesenvolvimento/N%C3%ADvel%201/resultadosAvaliacaoAnaliseTarefas.html">Relato dos Resultados - Storyboard</a></td>
+        <td><a href="https://interacao-humano-computador.github.io/2022.1-Prefeitura_Joao_Pessoa/DesignAvaliacaoDesenvolvimento/Nível%201/resultado_avaliacao_storyboard.html">Relato dos Resultados - Storyboard</a></td>
         <td>20/08</td>
         <td>Gabrielly Assunção</td>
         <td>Renann Gomes</td>
