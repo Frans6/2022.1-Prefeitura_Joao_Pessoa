@@ -24,9 +24,9 @@ nav_order: 4
 Para realizar a avaliação utilizamos  a metodologia de inspeção por ser possível de realizar sem ter contato com moradores reais da cidade. Para isso, será atribuido um integrante do grupo para representar cada persona descrita nos Storyboards. 
 </p>
     
-## 4. Avaliação
+## 3. Avaliação
 
-### 4.1 Perguntas
+### 3.1 Perguntas
 <table border="1">
     <tr>
         <td>Número</td>
@@ -66,7 +66,7 @@ Para realizar a avaliação utilizamos  a metodologia de inspeção por ser poss
 
 </table>
 
-### 4.2. Aplicação da Avaliação
+### 3.2 Aplicação da Avaliação
 
 <p align = "justify">
 &emsp;&emsp;Inicialmente, às margens de se executar a entrevista, o entrevistador informará o tempo máximo de execução da entrevista, que será de 10 minutos, as diretrizes iniciais do projeto, motivações e obterá o aceite no Termo de Consentimento. 
@@ -79,7 +79,7 @@ Para realizar a avaliação utilizamos  a metodologia de inspeção por ser poss
 &emsp;&emsp;O documento relatando de resultados da avaliação deve conter os objetivos e o escopo da avaliação e a descrição das tarefas analisadas.
 </p>
 
-## 5. Conclusão
+## 4. Conclusão
 
 <p align = "justify">
 &emsp;&emsp;A partir do estudo a respeito dos benefícios de se construir uma estrutura de planejamento para essa importante fase do projeto, acreditamos que poderemos potencializar os resultados obtidos nas entrevistas. Por serem perguntas direcionadas ao objetivo pretendedido, acreditamos também que os dados serão mais completos e coeretentes.
